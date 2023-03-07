@@ -1,0 +1,2388 @@
+# Blasphemer - DeuTex Instruction file
+# (Also detailed credits)
+# Additional Credits:
+# Leilei - Blank .WAD / Placeholders
+# Stilgar - Placeholder Map, Monster placeholder
+
+[lumps]
+DECORATE # Stilgar
+PLAYPAL  # Da Werecat 
+COLORMAP # Da Werecat 
+TINTTAB  # Da Werecat 
+LOADING  # * PLACE HOLDER *
+TITLE    # Jute Gyte
+HELP1    README	# * PLACE HOLDER *  
+HELP2    README	# * PLACE HOLDER *
+CREDIT   # MrFlibble
+E2END    README	# * PLACE HOLDER *
+E2PAL    		# * PLACE HOLDER *
+FINAL1   README	# * PLACE HOLDER *
+FINAL2   README	# * PLACE HOLDER *
+ENDTEXT  # Stilgar
+DEMO1    # * PLACE HOLDER *
+DEMO2    # * PLACE HOLDER *
+DEMO3    # * PLACE HOLDER *
+GENMIDI  # * PLACE HOLDER *
+SNDCURVE # ~ AutoGenerate (Stilgar) ~
+DMXGUS   # * PLACE HOLDER *
+GFRAG    # * PLACE HOLDER *
+AUTOPAGE # GreyGhost
+LANGUAGE # Stilgar 
+EXTENDED # Stilgar
+BLASPHEM # Empty tag lump
+MUS_E1M1 BLAS01X  # Jute Gyte
+MUS_E1M2 BLAS02  # Jute Gyte
+MUS_E1M3 BLAS03  # Jute Gyte
+MUS_E1M4 BLAS04X  # Jute Gyte
+MUS_E1M5 BLAS05X  # Jute Gyte
+MUS_E1M6 BLAS06  # Jute Gyte
+MUS_E1M7 BLAS07X  # Jute Gyte
+MUS_E1M8 BLAS08X  # Jute Gyte
+MUS_E1M9 BLAS09X  # Jute Gyte
+MUS_E2M1 BLAS10X  # Jute Gyte
+MUS_E2M2 BLAS11X  # Jute Gyte
+MUS_E2M3 BLAS12X  # Jute Gyte
+MUS_E2M4 BLAS13X  # Jute Gyte
+MUS_E2M6 BLAS15  # Jute Gyte
+MUS_E2M7 BLAS16  # Jute Gyte
+MUS_E2M8 BLAS17  # Jute Gyte
+MUS_E2M9 BLAS18X  # Jute Gyte
+MUS_E3M2 BLAS19X  # Jute Gyte
+MUS_E3M3 BLAS20X  # Jute Gyte
+MUS_TITL BLAS21  # Jute Gyte
+MUS_CPTD BLAS22X  # Jute Gyte (Episode complete music)
+MUS_INTR BLAS14X  # Jute Gyte (Level complete music)
+
+[levels]
+E1M1		# Angry Saint
+E1M2  	  	# Cacowad
+E1M3      	# SFoZ911
+E1M4      	# Steve Parker
+E1M5      	# Snarboo
+E1M6      	# Philippe lesire
+E1M7      	# Ryathaen
+E1M8      	# Brad Kiefer
+E1M9 		# Fraggle
+E2M1      	# Owen "Sarge Baldy" Lloyd (Bugfixed)
+E2M2      	# Chris Lutz
+E2M3      	# Samian and Cacowad
+E2M4      	# Ryathaen
+E2M5      	# Brad Kiefer
+E2M6      	# Brad Kiefer
+E2M7      	# Cacowad
+E2M8      	# Cacowad
+E2M9 	# Craneo
+E3M1	  	# Suporma
+E3M2 		# Craneo
+E3M3 		# Craneo
+E3M4 		# Ettingrinder
+E3M5 		# Ettingrinder
+E3M6 		# Ettingrinder
+E3M7 		# Ettingrinder
+E3M8	  	# Catoptromancy
+E3M9 		# Craneo
+E4M1 DM1 	# Jute Gyte
+E4M2 DM2 	# Rellik (Conversion by Jute)
+E4M3 DM3 	# Rellik (Conversion by Jute)
+E4M4 DM4 	# Hellbent (Conversion by Jute)
+E4M5 PH
+E4M6 PH
+E4M7 PH
+E4M8 PH
+E4M9 PH
+E5M1 PH
+E5M2 PH
+E5M3 PH
+E5M4 PH
+E5M5 PH
+E5M6 PH
+E5M7 PH
+E5M8 PH
+E5M9 PH
+E6M1	 	# DragonMorpheus
+E6M2 PH
+E6M3	 	# Catoptromancy
+
+[texture1]
+TEXTURE1
+
+[texture2]
+TEXTURE2
+
+[sounds]
+AMB1     # Jute Gyte
+AMB10    # Jute Gyte
+AMB11    # Jute Gyte
+AMB2     # Jute Gyte
+AMB3     # AntonR
+AMB4     # Jute Gyte
+AMB5     # Jute Gyte
+AMB6     # Jute Gyte
+AMB7     # Jute Gyte
+AMB8     # Jute Gyte
+AMB9     # Jute Gyte
+ARTIUP   # Jute Gyte
+ARTIUSE  # Jute Gyte
+BLSHIT   # SuperSomariDX
+BLSSHT   # SuperSomariDX
+BOUNCE   # SuperSomariDX
+BOWSHT   # Jute Gyte
+BSTACT   # Jute
+BSTATK   BURN	# * PLACE HOLDER *
+BSTDTH   # Jute
+BSTPAI   # Jute
+BSTSIT   # Jute
+BURN     # Jute
+CHAT     # Jute Gyte
+CHICACT  # Jute
+CHICATK  # Jute
+CHICDTH  # Jute
+CHICPAI  # Jute
+CHICPK1  # Jute
+CHICPK2  # Jute
+CHICPK3  # Jute
+CLKACT   # Artisticdude
+CLKATK   # Artisticdude
+CLKDTH   # Artisticdude
+CLKPAI   # Artisticdude
+CLKSIT   # Artisticdude
+DORCLS   # Jute Gyte
+DORMOV   # Jute Gyte
+DOROPN   # Jute Gyte
+GIBDTH   # Jute
+GLDHIT   # Jute
+GLOOP    # Jute Gyte
+GNTACT   # * PLACE HOLDER *
+GNTFUL   # * PLACE HOLDER *
+GNTHIT   # * PLACE HOLDER *
+GNTPOW   # * PLACE HOLDER *
+GNTUSE   # * PLACE HOLDER *
+HEDACT   # Jute
+HEDAT1   # SuperSomariDX
+HEDAT2   # SuperSomariDX
+HEDAT3   # SuperSomariDX
+HEDDTH   # Jute
+HEDPAI   # Jute
+HEDSIT   # Jute
+HRNHIT   # Jute Gyte
+HRNPOW   # SuperSomariDX
+HRNSHT   # SuperSomariDX
+IMPAT1   # SuperSomariDX
+IMPAT2   # Jute
+IMPDTH   # SuperSomariDX
+IMPPAI   IMPPAI2 	# SuperSomariDX
+IMPSIT   # SuperSomariDX
+ITEMUP   # Jute Gyte
+KEYUP    # Jute Gyte
+KGTAT2   # AntonR - CC0/public domai﻿n
+KGTATK   # AntonR - CC0/public domai﻿n
+KGTDTH	# AntonR - CC0/public domai﻿n
+KGTPAI   # AntonR - CC0/public domai﻿n
+KGTSIT	# AntonR - CC0/public domai﻿n
+LOBHIT   		# SuperSomariDX
+LOBPOW   		# SuperSomariDX
+LOBSHT   		# Jute Gyte
+MINACT   HEDACT	# * PLACE HOLDER *
+MINAT1   		# * PLACE HOLDER *
+MINAT2   BURN	 	# * PLACE HOLDER *
+MINAT3   BSTACT  	# * PLACE HOLDER *
+MINDTH   HEDDTH	# * PLACE HOLDER *
+MINPAI   MUMPAI	# * PLACE HOLDER *
+MINSIT   # * PLACE HOLDER *
+MUMAT1   # SuperSomariDX
+MUMAT2   # * PLACE HOLDER *
+MUMDTH   # SuperSomariDX
+MUMHED   # SuperSomariDX
+MUMPAI   # SuperSomariDX
+MUMSIT   # SuperSomariDX
+NEWPOD   # Jute
+PHOHIT   # SuperSomariDX
+PHOPOW   # SuperSomariDX
+PHOSHT   # SuperSomariDX
+PLRCDTH  # Jute
+PLRDTH   # RottKing
+PLROOF   # RottKing
+PLRPAI   # RottKing
+PLRWDTH  # Jute
+PODEXP   # Jute
+PSTART   # Jute Gyte
+PSTOP    # Jute Gyte
+RAMPHIT  # SuperSomariDX
+RAMRAIN  # SuperSomariDX
+RESPAWN  # Jute Gyte
+RIPSLOP  # Jute
+SBTACT   HEDACT	# * PLACE HOLDER *
+SBTDTH   HEDDTH	# * PLACE HOLDER *
+SBTPAI   HEDPAI	# * PLACE HOLDER *
+SNKACT	# AntonR - CC0/public domai﻿n
+SNKATK   # AntonR - CC0/public domai﻿n
+SNKDTH   # AntonR - CC0/public domai﻿n
+SNKPAI   # AntonR - CC0/public domai﻿n
+SNKSIT   # AntonR - CC0/public domai﻿n
+SORACT   WIZACT	# * PLACE HOLDER *
+SORATK   WIZATK	# * PLACE HOLDER *
+SORDBON  RIPSLOP	# * PLACE HOLDER *
+SORDEXP  BURN		# * PLACE HOLDER *
+SORDSPH  # * PLACE HOLDER *
+SORPAI   # * PLACE HOLDER *
+SORRISE  RESPAWN	# * PLACE HOLDER *
+SORSIT   # * PLACE HOLDER *
+SORZAP   # * PLACE HOLDER *
+STFCRK   # Craneo/Freedoom
+STFHIT   # SuperSomariDX
+STFPOW   # Jute
+STNMOV   # Jute Gyte
+SWITCH   # Jute Gyte
+TELEPT   # Jute Gyte
+WATERFL  # Jute Gyte
+WIND     # Jute Gyte
+WIZACT   # * PLACE HOLDER *
+WIZATK   # Jute Gyte
+WIZDTH   # * PLACE HOLDER *
+WIZPAI   # * PLACE HOLDER *
+WIZSIT   # SuperSomariDX
+WPNUP    # Artisticdude
+
+[graphics]
+ADVISOR  -257 -10 # Stilgar
+IN_X     GOD1	0 0 # * PLACE HOLDER *  
+IN_YAH   GOD1	0 0 # * PLACE HOLDER * 
+MAPE1    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
+MAPE2    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
+MAPE3    0 0 # MrFlibble - CC-BY-SA 3.0﻿/GPL
+FACEA0   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA1   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA2   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEA3   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB0   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB1   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB2   0 0 # Reinaldo "Horror Movie Guy," Craneo
+FACEB3   0 0 # Reinaldo "Horror Movie Guy," Craneo
+LIFEGEM0 0 0 # * PLACE HOLDER *  
+LIFEGEM1 LIFEGEM0 0 0 # * PLACE HOLDER *  
+LIFEGEM2 0 0 # * PLACE HOLDER *  
+LIFEGEM3 LIFEGEM2 0 0 # * PLACE HOLDER *  
+BARBACK  0 0 # Stilgar
+CHAINBAC 0 0 # Stilgar
+STATBAR  0 0 # Stilgar
+LIFEBAR  0 0 # Stilgar 
+INVBAR   0 0 # Stilgar 
+ARTIBOX  0 0 # Stilgar
+CHAIN    0 0 # Stilgar
+BLACKSQ  2 1 # Stilgar
+ARMCLEAR 0 2 # Stilgar
+LTFACE   0 0 # * PLACE HOLDER *  
+RTFACE   -17 0 # * PLACE HOLDER *   
+LTFCTOP  0 1 # Stilgar
+RTFCTOP  0 0 # * PLACE HOLDER *   
+SELECTBO 0 29 # Stilgar   
+USEARTIA 0 0 # * PLACE HOLDER *   
+USEARTIB 0 0 # * PLACE HOLDER *   
+USEARTIC 0 0 # * PLACE HOLDER *   
+USEARTID 0 0 # * PLACE HOLDER *   
+USEARTIE 0 0 # * PLACE HOLDER *   
+INVGEML1 FONTA10 0 0 # * PLACE HOLDER *  
+INVGEMR1 FONTA10 0 0 # * PLACE HOLDER *  
+INVGEML2 FONTA03 0 0 # * PLACE HOLDER *  
+INVGEMR2 FONTA03 0 0 # * PLACE HOLDER *  
+BKEYICON 0 0 # Stilgar
+GKEYICON 0 0 # Stilgar 
+YKEYICON 0 0 # Stilgar
+IN0      0 0 # Stilgar  
+IN1      0 0 # Stilgar 
+IN2      0 0 # Stilgar 
+IN3      0 0 # Stilgar 
+IN4      0 0 # Stilgar 
+IN5      0 0 # Stilgar 
+IN6      0 0 # Stilgar 
+IN7      0 0 # Stilgar 
+IN8      0 0 # Stilgar 
+IN9      0 0 # Stilgar
+NEGNUM   0 0 # Stilgar
+LAME     0 0 # * PLACE HOLDER *  
+SMALLIN0 1 0 # Stilgar
+SMALLIN1 1 0 # Stilgar  
+SMALLIN2 1 0 # Stilgar  
+SMALLIN3 1 0 # Stilgar  
+SMALLIN4 1 0 # Stilgar  
+SMALLIN5 1 0 # Stilgar  
+SMALLIN6 1 0 # Stilgar  
+SMALLIN7 1 0 # Stilgar  
+SMALLIN8 1 0 # Stilgar  
+SMALLIN9 1 0 # Stilgar  
+INAMGLD  0 0 # Stilgar 
+INAMBOW  0 0 # Stilgar  
+INAMBST  0 0 # Stilgar 
+INAMRAM  0 0 # Stilgar 
+INAMPNX  0 0 # Stilgar 
+INAMLOB  0 0 # Stilgar 
+BORDL    0 0 # * PLACE HOLDER *
+BORDR    0 0 # * PLACE HOLDER *
+BORDT    0 0 # * PLACE HOLDER *
+BORDB    0 0 # * PLACE HOLDER *
+BORDTL   0 0 # * PLACE HOLDER *
+BORDTR   0 0 # * PLACE HOLDER *
+BORDBL   0 0 # * PLACE HOLDER *
+BORDBR   0 0 # * PLACE HOLDER *
+SPINBK0  12 13 # BethOfDeath aka bpeterson   
+SPINBK1  11 13 # BethOfDeath aka bpeterson   
+SPINBK2  8 13 # BethOfDeath aka bpeterson   
+SPINBK3  8 13 # BethOfDeath aka bpeterson   
+SPINBK4  9 13 # BethOfDeath aka bpeterson   
+SPINBK5  12 13 # BethOfDeath aka bpeterson   
+SPINBK6  13 13 # BethOfDeath aka bpeterson   
+SPINBK7  12 13 # BethOfDeath aka bpeterson   
+SPINBK8  13 13 # BethOfDeath aka bpeterson   
+SPINBK9  12 13 # BethOfDeath aka bpeterson   
+SPINBK10 9 13 # BethOfDeath aka bpeterson   
+SPINBK11 5 13 # BethOfDeath aka bpeterson   
+SPINBK12 8 13 # BethOfDeath aka bpeterson   
+SPINBK13 10 13 # BethOfDeath aka bpeterson   
+SPINBK14 12 13 # BethOfDeath aka bpeterson   
+SPINBK15 12 13 # BethOfDeath aka bpeterson 
+SPFLY0   0 0 # * PLACE HOLDER *   
+SPFLY1   0 0 # * PLACE HOLDER *   
+SPFLY2   0 0 # * PLACE HOLDER *   
+SPFLY3   0 0 # * PLACE HOLDER *   
+SPFLY4   0 0 # * PLACE HOLDER *   
+SPFLY5   0 0 # * PLACE HOLDER *   
+SPFLY6   0 0 # * PLACE HOLDER *   
+SPFLY7   0 0 # * PLACE HOLDER *   
+SPFLY8   0 0 # * PLACE HOLDER *   
+SPFLY9   0 0 # * PLACE HOLDER *   
+SPFLY10  0 0 # * PLACE HOLDER *   
+SPFLY11  0 0 # * PLACE HOLDER *   
+SPFLY12  0 0 # * PLACE HOLDER *   
+SPFLY13  0 0 # * PLACE HOLDER *   
+SPFLY14  0 0 # * PLACE HOLDER *   
+SPFLY15  0 0 # * PLACE HOLDER *   
+GOD1     0 0 # * (Blank) *
+GOD2     0 0 # * (Blank) *
+M_HTIC   0 0 # Jute Gyte
+M_SLCTR1 10 -1 # Stilgar 
+M_SLCTR2 10 -1 # Stilgar
+M_SKL00	-10	-4  # MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL01	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL02	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL03	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL04	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL05	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL06	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL07	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL08	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL09	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL10	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL11	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL12	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL13	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL14	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL15	-12	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL16	-11	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SKL17	-10	-4	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SLDLT -9 0		#  MrFlibble - CC-BY-SA 3.0/GPL
+M_SLDMD1 0	0	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SLDMD2 0	0	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SLDRT 0	0	# MrFlibble - CC-BY-SA 3.0/GPL
+M_SLDKB  6	6 	# MrFlibble - CC-BY-SA 3.0/GPL
+M_FSLOT  -1	-1	# MrFlibble - CC-BY-SA 3.0/GPL
+PAUSED   21 0 # * PLACE HOLDER *
+FONTA_S  0 0 # * Marker *
+FONTA01  0 0 # Mechadon
+FONTA02  0 0 # Mechadon
+FONTA03  0 0 # Mechadon
+FONTA04  0 0 # Mechadon
+FONTA05  0 0 # Mechadon
+FONTA06  0 0 # Mechadon
+FONTA07  0 0 # Mechadon
+FONTA08  0 0 # Mechadon
+FONTA09  0 0 # Mechadon
+FONTA10  0 0 # Mechadon
+FONTA11  0 0 # Mechadon
+FONTA12  0 0 # Mechadon
+FONTA13  0 0 # Mechadon
+FONTA14  0 0 # Mechadon
+FONTA15  0 0 # Mechadon
+FONTA16  0 0 # Mechadon
+FONTA17  0 0 # Mechadon
+FONTA18  0 0 # Mechadon
+FONTA19  0 0 # Mechadon
+FONTA20  0 0 # Mechadon
+FONTA21  0 0 # Mechadon
+FONTA22  0 0 # Mechadon
+FONTA23  0 0 # Mechadon
+FONTA24  0 0 # Mechadon
+FONTA25  0 0 # Mechadon
+FONTA26  0 0 # Mechadon
+FONTA27  0 0 # Mechadon
+FONTA28  0 0 # Mechadon
+FONTA29  0 0 # Mechadon
+FONTA30  0 0 # Mechadon
+FONTA31  0 0 # Mechadon
+FONTA32  0 0 # Mechadon
+FONTA33 0 0  # Mechadon
+FONTA34 0 0  # Mechadon
+FONTA35 0 0  # Mechadon
+FONTA36 0 0  # Mechadon
+FONTA37 0 0  # Mechadon 
+FONTA38 0 0  # Mechadon
+FONTA39  0 0 # Mechadon 
+FONTA40  0 0 # Mechadon
+FONTA41  0 0 # Mechadon
+FONTA42  0 0 # Mechadon
+FONTA43  0 0 # Mechadon
+FONTA44  0 0 # Mechadon
+FONTA45  0 0 # Mechadon
+FONTA46  0 0 # Mechadon
+FONTA47  0 0 # Mechadon
+FONTA48  0 0 # Mechadon
+FONTA49  0 0 # Mechadon
+FONTA50  0 0 # Mechadon
+FONTA51  0 0 # Mechadon
+FONTA52  0 0 # Mechadon
+FONTA53  0 0 # Mechadon
+FONTA54  0 0 # Mechadon
+FONTA55  0 0 # Mechadon
+FONTA56  0 0 # Mechadon
+FONTA57  0 0 # Mechadon
+FONTA58  0 0 # Mechadon
+FONTA59  0 0 # Mechadon
+FONTA_E  0 0 # * Marker *
+FONTB_S  0 0 # * Marker *
+FONTB01  0 0 # Mechadon
+FONTB02  0 0 # Mechadon
+FONTB03  0 0 # Mechadon
+FONTB04  0 0 # Mechadon
+FONTB05  0 0 # Mechadon
+FONTB06  0 0 # * PLACE HOLDER *
+FONTB07  0 0 # Mechadon
+FONTB08  0 0 # * PLACE HOLDER *
+FONTB09  0 0 # * PLACE HOLDER *
+FONTB10  0 0 # * PLACE HOLDER *
+FONTB11  0 0 # * PLACE HOLDER *
+FONTB12  0 0 # Mechadon
+FONTB13  0 0 # Mechadon
+FONTB14  0 0 # Mechadon
+FONTB15  0 0 # Mechadon
+FONTB16  0 0 # Mechadon
+FONTB17  0 0 # Mechadon
+FONTB18  0 0 # Mechadon
+FONTB19  0 0 # Mechadon
+FONTB20  0 0 # Mechadon
+FONTB21  0 0 # Mechadon
+FONTB22  0 0 # Mechadon
+FONTB23  0 0 # Mechadon
+FONTB24  0 0 # Mechadon
+FONTB25  0 0 # Mechadon
+FONTB26  0 0 # Mechadon
+FONTB27  0 0 # * PLACE HOLDER *
+FONTB28  0 0 # * PLACE HOLDER *
+FONTB29  0 0 # * PLACE HOLDER *
+FONTB30  0 0 # * PLACE HOLDER *
+FONTB31  0 0 # Mechadon
+FONTB32  0 0 # * PLACE HOLDER *
+FONTB33  0 0 # Mechadon
+FONTB34  0 0 # Mechadon
+FONTB35  0 0 # Mechadon
+FONTB36  0 0 # Mechadon
+FONTB37  0 0 # Mechadon
+FONTB38  0 0 # Mechadon
+FONTB39  0 0 # Mechadon
+FONTB40  0 0 # Mechadon
+FONTB41  0 0 # Mechadon
+FONTB42  0 0 # Mechadon
+FONTB43  0 0 # Mechadon
+FONTB44  0 0 # Mechadon
+FONTB45  0 0 # Mechadon
+FONTB46  0 0 # Mechadon
+FONTB47  0 0 # Mechadon
+FONTB48  0 0 # Mechadon
+FONTB49  0 0 # Mechadon
+FONTB50  0 0 # Mechadon
+FONTB51  0 0 # Mechadon
+FONTB52  0 0 # Mechadon
+FONTB53  0 0 # Mechadon
+FONTB54  0 0 # Mechadon
+FONTB55  0 0 # Mechadon
+FONTB56  0 0 # Mechadon
+FONTB57  0 0 # Mechadon
+FONTB58  0 0 # Mechadon
+FONTB_E  0 0 # * Marker *
+
+[flats]
+CRFSTON	# Craneo
+CRROAD	# Craneo
+CRFLEF1  	# Craneo
+CRFLEF2		# Craneo
+CRGRSS1	# Craneo
+CRGRSS2	# Craneo
+CRGRSS3	# Craneo
+CRBLOOM	# Craneo
+CRFWD	# Craneo
+CRDIR1	# Craneo
+CRDIR2	# Craneo
+CRFBRIX	# Craneo
+CRCLOVR	# Craneo
+CRFALL	# Craneo
+CRPATH	# Craneo
+FLAT500   # Stilgar
+FLAT501   # Stilgar (Extra)
+FLAT502   # Stilgar
+FLAT503   # Stilgar
+FLAT504   # Stilgar
+FLAT505   # Stilgar (Extra)
+FLAT506   # Stilgar
+FLAT507   # Stilgar
+FLAT508   # Stilgar
+FLAT509   # Stilgar
+FLAT510   # Stilgar
+FLAT513   # Stilgar
+FLAT512   # Espi (FreeDoom) (Edit by Stilgar)
+FLAT516   # Stilgar
+FLAT517   # Stilgar
+FLAT520   # Stilgar
+FLAT521   # Stilgar
+FLAT522   # Stilgar
+FLAT523   # Stilgar
+FLOOR00   # Stilgar
+FLOOR01   # Stilgar
+FLOOR03   # Stilgar
+FLOOR04   # Esselfortium
+FLOOR05   # Stilgar
+FLOOR06   # Stilgar
+FLOOR07   # Stilgar
+FLOOR08   # Stilgar
+FLOOR09   # Esselfortium (Recolored)
+FLOOR10   # Stilgar
+FLOOR11   # Stilgar
+FLOOR12   # Stilgar
+FLOOR16   # Stilgar
+FLOOR17   # Airraid (FreeDoom) (Recolored)
+FLOOR18   # Stilgar
+FLOOR19   # Stilgar
+FLOOR20   # Stilgar
+FLOOR21   # Stilgar
+FLOOR22   # Stilgar
+FLOOR23   # Stilgar
+FLOOR24   # Stilgar
+FLOOR25   # Stilgar
+FLOOR26   # Stilgar
+FLOOR27   # Esselfortium
+FLOOR28   # Esselfortium
+FLOOR29   # Esselfortium (Edit by Stilgar)
+FLOOR30   # Esselfortium (Edit by Stilgar)
+FLOOR31   # unknown (Extra)
+FLATHUH1  # Mellow (FreeDoom) 
+FLATHUH2  # Mellow (FreeDoom) 
+FLATHUH3  # Mellow (FreeDoom) 
+FLATHUH4  # Mellow (FreeDoom) 
+FLTLAVA1	# Stilgar - Craneo
+FLTLAVA2	# Stilgar - Craneo
+FLTLAVA3	# Stilgar - Craneo
+FLTLAVA4	# Stilgar - Craneo
+FLTSLUD1  # Craneo
+FLTSLUD2  # Craneo
+FLTSLUD3  # Craneo
+FLTWAWA1  # Craneo
+FLTWAWA2  # Craneo
+FLTWAWA3  # Craneo
+F_SKY1    # Stilgar
+FCSTL1    # Stilgar (Extra)
+FCSTL2    # Stilgar (Extra)
+FRTHRCK   # Stilgar (Extra)
+FLCHESS1  # Stilgar (Extra)
+FLCHESS2  # Stilgar (Extra)
+FGROUND1  # Stilgar (Extra)
+FGROUND2  # Stilgar (Extra)
+FGROUND3  # Stilgar (Extra)
+FGROUND4  # Stilgar (Extra)
+FLXTR001  # Stilgar (Extra)
+FLXTR002  # Stilgar (Extra)
+FLXTR003  # Stilgar (Extra)
+FLXTR004  # Stilgar (Extra)
+FLXTR005  # Stilgar (Extra)
+FLXTR006  # Stilgar (Extra)
+FLXTR007  # Stilgar (Extra)
+FLXTR008  # Stilgar (Extra)
+FLXTR009  # Stilgar (Extra)
+FLXTR010  # Stilgar (Extra)
+FLXTR011  # Stilgar (Extra)
+FLXTR012  # Stilgar (Extra)
+FLXTR013  # Stilgar (Extra)
+FLXTR014  # Stilgar (Extra)
+FLXTR015  # Stilgar (Extra)
+FLXTR016  # Stilgar (Extra)
+FLXTR017  # Stilgar (Extra)
+FLXTR018  # Stilgar (Extra)
+FLXTR019  # Stilgar (Extra)
+FLXTR020  # Stilgar (Extra)
+FLXTR021  # Stilgar (Extra)
+FLXTR022  # Stilgar (Extra)
+FLXTR023  # Stilgar (Extra)
+FLXTR024  # Stilgar (Extra)
+FLXTR025  # Stilgar (Extra)
+FLXTR026  # Stilgar (Extra)
+FLXTR027  # Stilgar (Extra)
+FLXTR028  # Stilgar (Extra)
+FLXTR029  # Stilgar (Extra)
+FLXTR030  # Stilgar (Extra)
+FLXTR031  # unknown (Extra)
+FLCRAT01  # Stilgar (Extra)
+FLCRAT02  # unknown (Extra)
+FLGUTS1   # Stilgar (Extra)
+FLGUTS2   # Stilgar (Extra)
+FLGUTS3   # Stilgar (Extra)
+FLMETL01  # Stilgar (Extra)
+FLMETL02  # Stilgar (Extra)
+FLPENTA1  # Stilgar (Extra)
+FLPENTA2  # Stilgar (Extra)
+FLPENTA3  # Stilgar (Extra)
+FLPENTA4  # Stilgar (Extra)
+FLRUFF01  # Stilgar (Extra)
+FLRUFF02  # Stilgar (Extra)
+FLRUFF03  # Stilgar (Extra)
+FLSAND	# Freedoom (Extra) - Craneo^M
+FLSKULL1  # Espi (Freedoom, recolor)
+FLSKULL2  # Espi (Freedoom)
+FLSNOW    # Stilgar (Extra) - Craneo
+FLWHICE   # Stilgar (Extra)
+BRIKBRF2  # Esselfortium (Extra)
+BRIKDKF1  # Esselfortium (Extra)
+BRIKDKF2  # Esselfortium (Extra)
+BRIKGRF1  # Esselfortium (Extra)
+BRIKGRF2  # Esselfortium (Extra)
+BRIKWDF1  # Esselfortium (Extra)
+BRIKWDF2  # Esselfortium (Extra)
+BRIKWDF3  # Esselfortium (Extra)
+DIRTSL01  # Esselfortium (Extra)
+DIRTSL02  # Esselfortium (Extra)
+FLGOTHSL  # Esselfortium (Sized, Extra)
+GRASFAD1  # Esselfortium (Extra)
+GRASFAD2  # Esselfortium (Extra)
+GRASFAD3  # Esselfortium (Extra)
+GRASSLF1  # Esselfortium (Extra)
+MARBDKF1  # Esselfortium (Extra)
+MARBDKF2  # Esselfortium (Extra)
+MARBDKF3  # Esselfortium (Extra Edit)
+MARBTLF1  # Esselfortium (Extra)
+MARBTLF2  # Esselfortium (Extra)
+MARBTLF3  # Esselfortium (Extra)
+MARBTLF4  # Esselfortium (Extra)
+METLSLF1  # Esselfortium (Extra)
+METLSLF2  # Esselfortium (Extra)
+METLSLF3  # Esselfortium (Extra)
+METLSLF4  # Esselfortium (Extra)
+METLSLF5  # Esselfortium (Extra Edit)
+STONBRF2  # Esselfortium (Extra)
+STONBRF3  # Esselfortium (Extra)
+STONBRF4  # Esselfortium (Extra)
+STONGYF2  # Esselfortium (Extra)
+STONGYF3  # Esselfortium (Extra)
+STONGYF4  # Esselfortium (Extra)
+SUPPMTF1  # Esselfortium (Extra)
+SUPPMTF2  # Esselfortium (Extra)
+WOODSLF0  # Esselfortium (Extra)
+WOODSLF1  # Esselfortium (Extra)
+WOODSLF2  # Esselfortium (Extra)
+WOODSLF3  # Esselfortium (Extra)
+WOODSLF4  # Esselfortium (Extra)
+WOODSLF5  # Esselfortium (Extra)
+WOODSLF6  # Esselfortium (Extra)
+WOODSLF7  # Esselfortium (Extra)
+WOODSLF8  # Esselfortium (Extra)
+WOODSLF9  # Esselfortium (Extra)
+FLTFLWW1  # Craneo
+FLTFLWW2  # Craneo
+FLTFLWW3  # Craneo
+FLTTELE1  # Stilgar
+FLTTELE2  # Stilgar
+FLTTELE3  # Stilgar
+FLTTELE4  # Stilgar
+
+[patches]
+WOODBOOK	# Craneo
+CRTREA		# Craneo
+CRTREB		# Craneo
+CRWWD		# Craneo
+CRLEAF1		# Craneo
+CRLEAF2		# Craneo
+CRWBRIX		# Craneo
+CRWSTON		# Craneo
+CRFLRWL		# Craneo
+SKY1      # Stilgar
+SKY2      # Stilgar
+SKY3      # Craneo
+PATA00    # Stilgar (NEW SIZE)
+PATA01    # Stilgar (NEW SIZE)
+PATA02    # Stilgar (NEW SIZE)
+PATA03    # Stilgar (NEW SIZE)
+PATA04    # Stilgar (NEW SIZE)
+PATA05    # Stilgar (NEW SIZE)
+PATA06    # Stilgar (NEW SIZE)
+WALL00    # Stilgar
+WALL01    # Stilgar
+WALL02    # Stilgar
+WALL04    # Stilgar
+WALL05    # Stilgar
+WALL06    # Stilgar
+WALL07    # Stilgar
+WALL08    # Stilgar
+WALL10    # Stilgar
+WALL12    # Esselfortium (Modded)
+WALL14    # Stilgar
+WALL15    # Stilgar
+WALL16    # Stilgar
+WALL17    # Stilgar
+WALL18    # Stilgar
+WALL19    # Stilgar
+WALL20    # Stilgar
+WALL21    # Stilgar
+WALL24    # Stilgar
+WALL26    # Stilgar
+WALL25    # Stilgar
+WALL27    # Stilgar
+WALL28    # Stilgar
+WALL30    # Stilgar
+WALL32    # Stilgar
+WALL34    # Stilgar
+WALL35    # Stilgar
+WALL37    # Stilgar
+WALL38    # Stilgar
+WALL40    # Stilgar
+WALL41    # Stilgar
+WALL42    # Stilgar
+WALL44    # Stilgar
+WALL45    # Stilgar
+WALL46    # Stilgar
+WALL49    # Stilgar
+WALL50    # Esselfortium (Modded)
+WALL51    # Stilgar
+WALL52    # Stilgar
+WALL53    # Stilgar
+WALL54    # Stilgar
+WALL55    # Stilgar
+WALL56    # Stilgar
+WALL57    # Stilgar
+WALL59    # Stilgar
+WALL60    # Stilgar
+WALL62    # Stilgar
+WALL63    # Esselfortium (Edit by Stilgar)
+WALL64    # Esselfortium (Edit by Stilgar)
+WALL500   # Warfare
+WALL501   # Stilgar
+WALL502   # Stilgar
+WALL503   # Stilgar
+WALL504   # Stilgar
+WALL505   # Stilgar
+WALL506   # Stilgar
+WALL508   # Stilgar
+WALL509   # Stilgar
+WALL510   # Stilgar
+WALL511   # Stilgar
+WALL512   # Stilgar
+WALL515   # Stilgar
+WALL516   # Stilgar (NEW SIZE)
+WALL517   # Stilgar (NEW SIZE)
+WALL519   # Stilgar (NEW SIZE)
+WALL520   # Stilgar (NEW SIZE)
+WALL522   # Stilgar (NEW SIZE)
+WALL523   # Stilgar (NEW SIZE)
+WALL524   # Stilgar
+WALL525   # Stilgar
+WALL526   # Stilgar
+WALL527   # Stilgar
+WALL528   # Stilgar
+WALL529   # Stilgar
+WALL530   # Stilgar
+WALL531   # unknown (Extra)
+WLLLVFL1  # Craneo
+WLLLVFL2  # Craneo
+WLLLVFL3  # Craneo
+DORBLU1   # Stilgar (Extra)
+DORGRN1   # Stilgar (Extra)
+DORYEL1   # Stilgar (Extra)
+PFENCE01  # Stilgar (Extra)
+PFENCE02  # Stilgar (Extra)
+PFENCE03  # Stilgar (Extra)
+PFENCE04  # Stilgar (Extra)
+PPRTCUL1  # Stilgar (Extra)
+PSKULL1   # Stilgar (Extra)
+PSKULL2   # Stilgar (Extra)
+PSKULL3   # Stilgar (Extra)
+PSKULL4   # Stilgar (Extra)
+TNYBRK01  # Stilgar (Extra)
+TNYBRK02  # Stilgar (Extra)
+TNYBRK03  # Stilgar (Extra)
+TNYBRK04  # Stilgar (Extra)
+WINDWA01  # Stilgar (Extra)
+WINDWA02  # Stilgar (Extra)
+WLBLKMT1  # Stilgar (Extra)
+WLBLKMT2  # Stilgar (Extra)
+WLBLKMT3  # Stilgar (Extra)
+WLBRIK01  # Stilgar (Extra)
+WLBRIK02  # Stilgar (Extra)
+WLBRIK03  # Stilgar (Extra)
+WLBRIK04  # Stilgar (Extra)
+WLBRIK05  # Stilgar (Extra)
+WLCRAT01  # Stilgar (Extra)
+WLCRAT02  # unknown (Extra)
+WLGORE01  # Stilgar (Extra)
+WLMDMT01  # Stilgar (Extra)
+WLMDMT02  # Stilgar (Extra)
+WLMETL01  # Stilgar (Extra)
+WLMETL02  # Stilgar (Extra)
+WLPLAS01  # Stilgar (Extra)
+WLPLAS02  # Stilgar (Extra)
+WLPLAS03  # Stilgar (Extra)
+WLROCK01  # Stilgar (Extra)
+WLROCK02  # Stilgar (Extra)
+WLROCK03  # Stilgar (Extra)
+WLROCK04  # Stilgar (Extra)
+WLROCK05  # Stilgar (Extra)
+WLROCK06  # Stilgar (Extra)
+WLROCK07  # Stilgar (Extra)
+WLRTHRCK  # Stilgar (Extra)
+WLSKTR01  # Stilgar (Extra)
+WLSKTR02  # Stilgar (Extra)
+WLSKTR03  # Stilgar (Extra)
+WLVINBR1  # Stilgar (Extra)
+WLVINEM1  # Stilgar (Extra)
+WLVINGR1  # Stilgar (Extra)
+WLVINBR2  # Stilgar (Semi-extra)
+WLWOOD1   # Stilgar (Extra)
+WLWOOD2   # Stilgar (Extra)
+WLXTR001  # Stilgar (Extra)
+WLXTR002  # Stilgar (Extra)
+WLXTR003  # Stilgar (Extra)
+WLXTR004  # Stilgar (Extra)
+WLXTR005  # Stilgar (Extra)
+WLXTR006  # Stilgar (Extra)
+WLXTR007  # Stilgar (Extra)
+WLXTR008  # Stilgar (Extra)
+WLXTR009  # Stilgar (Extra)
+WLXTR010  # Stilgar (Extra)
+WLXTR011  # Stilgar (Extra)
+WLXTR012  # Esselfortium (Modded, Extra)
+WLXTR013  # Esselfortium (Modded, Extra)
+WLXTR014  # Stilgar (Extra)
+WLXTR015  # Stilgar (Extra)
+WLXTR016  # Stilgar (Extra)
+WLXTR017  # Stilgar (Extra)
+WLXTR018  # Stilgar (Extra)
+WLXTR019  # Stilgar (Extra)
+WLXTR020  # Esselfortium (Modded, Extra)
+WLXTR021  # Esselfortium (Modded, Extra)
+WLXTR022  # Stilgar (Extra)
+WLXTR023  # Stilgar (Extra)
+WLXTR024  # Stilgar (Extra)
+WLXTR025  # Stilgar (Extra)
+WLXTR026  # Stilgar (Extra)
+WXDOOR01  # Stilgar (Extra)
+WLSTAT01  # Warfare (Semi-Extra)
+WLSTAT02  # Warfare (Extra)
+WLDEAD01  # Fredrik (Freedoom, Modded, Extra), Craneo
+WLDEAD02	# NMN - CC0
+WLDEAD03	# NMN - CC0
+BRICKBLU  # Esselfortium (Extra)
+BRICKGRN  # Esselfortium (Extra, recolor)
+BRICKRNG  # Esselfortium (Extra, recolor)
+BRIKBR11  # Esselfortium (Extra)
+BRIKBR12  # Esselfortium (Extra)
+BRIKDK01  # Esselfortium (Extra)
+BRIKDK02  # KWC (Modded, Extra)
+BRIKDK11  # Esselfortium (Extra)
+BRIKDK12  # KWC (Modded, Extra)
+BRIKGR01  # Esselfortium (Extra)
+BRIKGR02  # Esselfortium (Extra)
+BRIKGR11  # Esselfortium (Extra)
+BRIKGR12  # Esselfortium (Extra)
+BRIKWD01  # Esselfortium (Extra)
+BRIKWD02  # Esselfortium (Extra)
+BRIKWD03  # Esselfortium (Extra)
+GOTHICSL  # Esselfortium (Sized, Extra)
+LOOSBRK1  # Esselfortium (Extra)
+MARBBR01  # Esselfortium (Extra)
+MARBBR02  # Esselfortium (Extra)
+MARBBR03  # Esselfortium (Modded, Extra)
+MARBBR04  # Esselfortium (Modded, Extra)
+MARBBR05  # Esselfortium (Modded, Extra)
+MARBDK01  # Esselfortium (Extra)
+MARBDK02  # Esselfortium (Extra)
+MARBDK03  # Esselfortium (Extra)
+MARBDK04  # Esselfortium (Extra)
+MARBDK05  # Esselfortium (Extra)
+MARBDK06  # Esselfortium (Extra)
+MBCBRIK1  # Esselfortium (Extra)
+MTRUNE01  # Esselfortium (Extra)
+MTRUNE02  # Esselfortium (Extra)
+MTRUNE03  # Esselfortium (Extra)
+MTRUNE04  # Esselfortium (Extra)
+MTRUNE05  # Esselfortium (Extra)
+MTRUNE06  # Esselfortium (Extra)
+STONBR01  # Esselfortium (Extra)
+STONBR02  # Esselfortium (Extra)
+STONBR03  # Esselfortium (Extra)
+STONBR04  # Esselfortium (Extra)
+STONGY01  # Esselfortium (Extra)
+STONGY02  # Esselfortium (Extra)
+STONGY03  # Esselfortium (Extra)
+STONGY04  # Esselfortium (Extra)
+TSSLGY01  # Esselfortium (Extra)
+TSSLGY02  # Esselfortium (Extra)
+TSSLGY03  # Esselfortium (Extra)
+TSSLGY04  # Esselfortium (Extra)
+TSSLGY05  # Esselfortium (Extra)
+WOODSL01  # Esselfortium (Extra)
+WOODSL02  # Esselfortium (Extra)
+WOODSL03  # Esselfortium (Extra)
+WOODSL04  # Esselfortium (Extra)
+WOODSL05  # Esselfortium (Extra)
+WOODSL06  # Esselfortium (Extra)
+WOODSL07  # Esselfortium (Extra)
+WOODSL08  # Esselfortium (Extra)
+WOODSL09  # Esselfortium (Extra)
+WOODSL10  # Esselfortium (Extra)
+WOODSL11  # Esselfortium (Extra)
+WALL513   # * PLACE HOLDER *
+WALL518   # * PLACE HOLDER *
+WLLWTFL1  # Craneo
+WLLWTFL2  # Craneo
+WLLWTFL3  # Craneo
+
+# Floating Item offsets - 10 above ground seems good
+[sprites]
+BARLA0   16 32 # Warfare
+BRPLA0   15 128 # Stilgar
+MOS1A0   20 26 # Warfare
+MOS2A0   15 29 # Warfare
+STCLA0   19 76 # Warfare
+STCSA0   11 41 # Warfare
+STGLA0   19 68 # Warfare
+STGSA0   11 37 # Warfare
+AMB1A0 6  13   # Stilgar
+AMB1B0 6  13   # Stilgar
+AMB1C0 6  13   # Stilgar
+AMC1A0 7  22   # Stilgar
+AMC2A0 6  22   # Stilgar
+AMC2B0 6  22   # Stilgar
+AMC2C0 6  22   # Stilgar
+AMS1A0 6  12   # Stilgar
+AMS1B0 6  12   # Stilgar
+AMS2A0 11 17   # Stilgar
+AMS2B0 11 17   # Stilgar
+AMM1A0 5  9    # Stilgar
+AMM2A0 6  15   # Stilgar
+AMG1A0 4  10   # Stilgar
+BAGHA0 7  32   # Stilgar
+BLODA0 4  4    # Stilgar
+BLODB0 5  6    # Stilgar
+BLODC0 7  7    # Stilgar
+HCORA0 11 108  # Espi (FreeDoom) (Edit by Stilgar)
+INVUA0 8  32   # Stilgar (WIP)
+INVUB0 8  32   # Stilgar (WIP)
+INVUC0 8  32   # Stilgar (WIP)
+INVUD0 8  32   # Stilgar (WIP)
+PTN1A0 4  25   # Stilgar
+PTN1B0 4  25   # Stilgar
+PTN1C0 4  25   # Stilgar
+PWBKA0 11 33   # Stilgar, partially recolored by BethOfDeath
+SHD2A0 14 43   # Stilgar
+SHLDA0 15 41   # Stilgar
+SOARA0 23 25   # Stilgar
+SPMPA0 12 28   # Stilgar
+VFBLA0 13 12   # Stilgar
+VFBLB0 12 13   # Stilgar
+VTFBA0 6 6 # Stilgar
+VTFBB0 6 6 # Stilgar
+WBLSA0 11  45   # Eriance
+WBOWA0 21 38   # Stilgar
+WGNTA0 15 52    # Eriance
+WMCEA0 21 22   # Eriance
+WPHXA0 10 57   # Eriance
+WSKLA0 18 45   # Stilgar
+SOARB0 SOARA0 23 25 # Stilgar (Unanimated!)
+SOARC0 SOARA0 23 25 # Stilgar (Unanimated!)
+ACLOA0 6 38  # * PLACE HOLDER *
+ACLOB0 6 38  # * PLACE HOLDER *
+ACLOC0 6 38  # * PLACE HOLDER *
+ACLOD0 6 38  # * PLACE HOLDER *
+ACLOE0 GOD1 0 0  # * PLACE HOLDER *
+AMB2A0 8 13  # * PLACE HOLDER *
+AMB2B0 8 13  # * PLACE HOLDER *
+AMB2C0 8 13  # * PLACE HOLDER *
+AMG2A0 7 13  # * PLACE HOLDER *
+AMG2B0 7 13 # * PLACE HOLDER *
+AMG2C0 7 13  # * PLACE HOLDER *
+AMP1A0 5 12  # * PLACE HOLDER *
+AMP1B0 5 12  # * PLACE HOLDER *
+AMP1C0 5 12  # * PLACE HOLDER *
+AMP2A0 7 13  # * PLACE HOLDER *
+AMP2B0 7 13  # * PLACE HOLDER *
+AMP2C0 7 13  # * PLACE HOLDER *
+ARTIATLP -1 -2 # Stilgar
+ARTIEGGC -3 -3 # * PLACE HOLDER *
+ARTIFBMB -1 -4 # * PLACE HOLDER *
+ARTIINVS -2 -1 # Stilgar
+ARTIINVU -6 -4 # Stilgar
+ARTIPTN2 -6 -5   # Stilgar
+ARTIPWBK -3 -3 # Stilgar
+ARTISOAR 1 -9 # * PLACE HOLDER *
+ARTISPHL -5 -5 # Stilgar
+ARTITRCH -7 -3 # SuperSomariDX
+ATLPA0   12 35 # Stilgar
+ATLPB0   12 35 # Stilgar
+ATLPC0   12 35 # Stilgar
+BEAKA0   -46 -113 #
+#Monsters
+BEASA1D1	22	73	# BEAS* Craneo and KatherineCode 
+BEASA2D8	44	73
+BEASA3D7	49	72
+BEASA4D6	27	72
+BEASA5D5	33	73
+BEASA6D4	36	73
+BEASA7D3	47	73
+BEASA8D2	38	73
+BEASB1E1	42	75
+BEASB2E8	28	75
+BEASB3E7	34	73
+BEASB4E6	35	73
+BEASB5E5	24	73
+BEASB6E4	30	75
+BEASB7E3	44	74
+BEASB8E2	48	74
+BEASC1F1	30	77
+BEASC2F8	35	77
+BEASC3F7	37	76
+BEASC4F6	28	75
+BEASC5F5	37	76
+BEASC6F4	36	75
+BEASC7F3	38	74
+BEASC8F2	12	75
+BEASG1	56	87
+BEASG2	28	86
+BEASG3	38	84
+BEASG4	49	82
+BEASG5	36	82
+BEASG6	35	82
+BEASG7	39	85
+BEASG8	52	86
+BEASH1	47	81
+BEASH2	62	80
+BEASH3	43	78
+BEASH4	26	78
+BEASH5	53	80
+BEASH6	48	79
+BEASH7	43	79
+BEASH8	27	81
+BEASI1	17	76
+BEASI2	30	75
+BEASI3	47	75
+BEASI4	51	74
+BEASI5	49	74
+BEASI6	48	74
+BEASI7	40	74
+BEASI8	46	76
+BEASJ0	41	87
+BEASK0	39	83
+BEASL0	37	76
+BEASM0	44	65
+BEASN0	51	52
+BEASO0	56	40
+BEASP0	56	37
+BEASQ0	56	18
+BEASR0	56	87
+BEASS0	55	78
+BEAST0	54	62
+BEASU0	57	47
+BEASV0	58	38
+BEASW0	58	19
+BEASX0	58	19
+BEASY0	58	19
+BEASZ0	58	19
+CHKNA1    # Rei base on original by jute
+CHKNA2A8  # 
+CHKNA3A7  # 
+CHKNA4A6  # 
+CHKNA5    # 
+CHKNB1    # 
+CHKNB2B8  # 
+CHKNB3B7  # 
+CHKNB4B6  # 
+CHKNB5    # 
+CHKNC1    # 
+CHKNC2C8  # 
+CHKNC3C7  # 
+CHKNC4C6  # 
+CHKNC5    # 
+CHKND1    # 
+CHKND2D8  # 
+CHKND3D7  # 
+CHKND4D6  # 
+CHKND5    # 
+CHKNE0    # 
+CHKNF0    # 
+CHKNG0    # 
+CHKNH0    # 
+CHKNI0    # 
+CHKNJ0    # 
+CHKNK0    # 
+CHKNL0    # 
+CHKNM0    # 
+CHKNN0    #
+CHKNO0    # 
+CHKNP0    # 
+CHKNQ0    # 
+CLNKA1  	40 69 # BigProjectAlone
+CLNKA2A8  	30 70 # BigProjectAlone
+CLNKA3A7  	29 70 # BigProjectAlone
+CLNKA4A6  	25 70 # BigProjectAlone
+CLNKA5  	37 67 # BigProjectAlone
+CLNKB1  	24 69 # BigProjectAlone
+CLNKB2B8  	30 65 # BigProjectAlone
+CLNKB3B7  	29 65 # BigProjectAlone
+CLNKB4B6  	28 64 # BigProjectAlone
+CLNKB5  	24 69 # BigProjectAlone
+CLNKC1  	39 68 # BigProjectAlone
+CLNKC2C8  	30 67 # BigProjectAlone
+CLNKC3C7  	28 67 # BigProjectAlone
+CLNKC4C6  	26 64 # BigProjectAlone
+CLNKC5  	24 64 # BigProjectAlone
+CLNKD1  	37 70 # BigProjectAlone
+CLNKD2D8  	30 67 # BigProjectAlone
+CLNKD3D7  	23 65 # BigProjectAlone
+CLNKD4D6  	27 66 # BigProjectAlone
+CLNKD5  	37 67 # BigProjectAlone
+CLNKE1  	44 67 # BigProjectAlone
+CLNKE2E8  	24 64 # BigProjectAlone
+CLNKE3E7  	26 64 # BigProjectAlone
+CLNKE4E6 	 29 66 # BigProjectAlone
+CLNKE5  	38 68 # BigProjectAlone
+CLNKF1  	37 69 # BigProjectAlone
+CLNKF2F8  	31 70 # BigProjectAlone
+CLNKF3F7  	37 68 # BigProjectAlone
+CLNKF4F6  	26 67 # BigProjectAlone
+CLNKF5  	37 69 # BigProjectAlone
+CLNKG1  	39 69 # BigProjectAlone
+CLNKG2G8  	29 69 # BigProjectAlone
+CLNKG3G7  	30 68 # BigProjectAlone
+CLNKG4G6  	27 66 # BigProjectAlone
+CLNKG5  	37 69 # BigProjectAlone
+CLNKH1  	24 64 # BigProjectAlone
+CLNKH2H8  	30 67 # BigProjectAlone
+CLNKH3H7  	23 65 # BigProjectAlone
+CLNKH4H6  	27 66 # BigProjectAlone
+CLNKH5  	37 67 # BigProjectAlone
+CLNKI0  	35 60 # BigProjectAlone
+CLNKJ0  	39 69 # BigProjectAlone
+CLNKK0  	43 67 # BigProjectAlone
+CLNKL0  	44 67 # BigProjectAlone
+CLNKM0  	39 45 # BigProjectAlone
+CLNKN0  	39 38 # BigProjectAlone
+CLNKO0  	39 38 # BigProjectAlone
+HEADA1  	# HEAD by Oplexitie
+HEADA2A8  	
+HEADA3A7  	
+HEADA4A6  	
+HEADA5  	
+HEADB1  	
+HEADB2B8  	
+HEADB3B7  	
+HEADB4B6  	
+HEADB5  	
+HEADC0  
+HEADD0  
+HEADE0  	
+HEADF0  	
+HEADG0  	
+HEADH0  	
+HEADI0  	
+IMPXA1  	 # All IMPX frames made by Rei
+IMPXA2A8  	 # 
+IMPXA3A7  	 # 
+IMPXA4A6  	 # 
+IMPXA5  	 # 
+IMPXB1  	 # 
+IMPXB2B8  	 # 
+IMPXB3B7  	 # 
+IMPXB4B6  	 # 
+IMPXB5  	 # 
+IMPXC1  	 # 
+IMPXC2C8  	 # 
+IMPXC3C7  	 # 
+IMPXC4C6  	 # 
+IMPXC5  	 # 
+IMPXD1  	 # 
+IMPXD2D8  	 # 
+IMPXD3D7  	 # 
+IMPXD4D6  	 # 
+IMPXD5  	 # 
+IMPXE1  	 # 
+IMPXE2E8  	 # 
+IMPXE3E7  	 # 
+IMPXE4E6  	 # 
+IMPXE5  	 # 
+IMPXF1  	 # 
+IMPXF2F8  	 # 
+IMPXF3F7  	 # 
+IMPXF4F6  	 # 
+IMPXF5  	 # 
+IMPXG1  	# 
+IMPXG2
+IMPXG3
+IMPXG4
+IMPXG5  	# 
+IMPXG6  	# 
+IMPXG7  	# 
+IMPXG8  	# 
+IMPXH0  	# 
+IMPXI0  	# 
+IMPXJ0  	# 
+IMPXK0  	# 
+IMPXL0  	# 
+IMPXM0  	# 
+IMPXN0  	# 
+IMPXO0  	# 
+IMPXP0  	# 
+IMPXQ0  	# 
+IMPXR0  	# 
+IMPXS0  	# 
+IMPXT0  	# 
+IMPXU0  	# 
+IMPXV0  	# 
+IMPXW0  	# 
+IMPXX0  	# 
+IMPXY0  	# 
+IMPXZ0  	# 
+KNIGA1	50	88	# All KNIG* frames by AntonR
+KNIGA2	50	88
+KNIGA3	50	88
+KNIGA4	50	88
+KNIGA5	50	88
+KNIGA6	50	88
+KNIGA7	50	88
+KNIGA8	50	88
+KNIGB1	50	88
+KNIGB2	50	88
+KNIGB3	50	88
+KNIGB4	50	88
+KNIGB5	50	88
+KNIGB6	50	88
+KNIGB7	50	88
+KNIGB8	50	88
+KNIGC1	50	88
+KNIGC2	50	88
+KNIGC3	50	88
+KNIGC4	50	88
+KNIGC5	50	88
+KNIGC6	50	88
+KNIGC7	50	88
+KNIGC8	50	88
+KNIGD1	50	88
+KNIGD2	50	88
+KNIGD3	50	88
+KNIGD4	50	88
+KNIGD5	50	88
+KNIGD6	50	88
+KNIGD7	50	88
+KNIGD8	50	88
+KNIGE1	50	88
+KNIGE2	50	88
+KNIGE3	50	88
+KNIGE4	50	88
+KNIGE5	50	88
+KNIGE6	50	88
+KNIGE7	50	88
+KNIGE8	50	88
+KNIGF1	50	88
+KNIGF2	50	88
+KNIGF3	50	88
+KNIGF4	50	88
+KNIGF5	50	88
+KNIGF6	50	88
+KNIGF7	50	88
+KNIGF8	50	88
+KNIGG1	50	88
+KNIGG2	50	88
+KNIGG3	50	88
+KNIGG4	50	88
+KNIGG5	50	88
+KNIGG6	50	88
+KNIGG7	50	88
+KNIGG8	50	88
+KNIGH1	50	88
+KNIGH2	50	88
+KNIGH3	50	88
+KNIGH4	50	88
+KNIGH5	50	88
+KNIGH6	50	88
+KNIGH7	50	88
+KNIGH8	50	88
+KNIGI0	50	88
+KNIGJ0	50	88
+KNIGK0	50	88
+KNIGL0	50	88
+KNIGM0	50	88
+KNIGN0	50	88
+KNIGO0	50	88
+MNTRA1 	# All MNTR* frames made by Rei
+MNTRA2 	# 
+MNTRA3 	# 
+MNTRA4 	# 
+MNTRA5 	# 
+MNTRA6 	# 
+MNTRA7 	# 
+MNTRA8 	# 
+MNTRB1 	# 
+MNTRB2 	# 
+MNTRB3 	# 
+MNTRB4 	# 
+MNTRB5 	# 
+MNTRB6 	# 
+MNTRB7 	# 
+MNTRB8 	# 
+MNTRC1 	# 
+MNTRC2 	# 
+MNTRC3 	# 
+MNTRC4 	# 
+MNTRC5 	# 
+MNTRC6 	# 
+MNTRC7 	# 
+MNTRC8 	# 
+MNTRD1 	#
+MNTRD2 	# 
+MNTRD3 	# 
+MNTRD4 	# 
+MNTRD5 	# 
+MNTRD6 	# 
+MNTRD7 	# 
+MNTRD8 	# 
+MNTRE1 	# 
+MNTRE2 	# 
+MNTRE3 	# 
+MNTRE4 	# 
+MNTRE5 	# 
+MNTRE6 	# 
+MNTRE7 	# 
+MNTRE8 	# 
+MNTRF0  	# 
+MNTRG0  	# 
+MNTRH0  	# 
+MNTRI0  	# 
+MNTRJ0  	# 
+MNTRK0  	# 
+MNTRL0  	# 
+MNTRM0  	# 
+MNTRN0  	# 
+MNTRO0  	# 
+MNTRP0  	# 
+MNTRQ0  	# 
+MNTRR0  	# 
+MNTRS0  	# 
+MNTRT0  	# 
+MNTRU1 	# 
+MNTRU2 	# 
+MNTRU3 	# 
+MNTRU4 	#
+MNTRU5 	# 
+MNTRU6 	# 
+MNTRU7 	# 
+MNTRU8 	# 
+MNTRV1 	# 
+MNTRV2 	# 
+MNTRV3 	# 
+MNTRV4 	# 
+MNTRV5 	# 
+MNTRV6 	# 
+MNTRV7 	# 
+MNTRV8 	# 
+MNTRW1 	# 
+MNTRW2 	# 
+MNTRW3 	# 
+MNTRW4 	# 
+MNTRW5 	#
+MNTRW6 	# 
+MNTRW7 	# 
+MNTRW8 	# 
+MNTRX1 	# 
+MNTRX2 	# 
+MNTRX3 	# 
+MNTRX4 	#
+MNTRX5 	# 
+MNTRX6 	# 
+MNTRX7 	# 
+MNTRX8 	#
+MNTRY1 	# 
+MNTRY2 	# 
+MNTRY3 	# 
+MNTRY4 	# 
+MNTRY5 	# 
+MNTRY6 	# 
+MNTRY7 	# 
+MNTRY8 	# 
+MNTRZ1 	#
+MNTRZ2 	# 
+MNTRZ3 	#
+MNTRZ4 	#
+MNTRZ5 	#
+MNTRZ6 	#
+MNTRZ7 	# 
+MNTRZ8 	#
+MUMMA1   # All MUMM* frames made by Rei
+MUMMA2A8  
+MUMMA3A7  
+MUMMA4A6  
+MUMMA5 
+MUMMB1  
+MUMMB2B8 
+MUMMB3B7  
+MUMMB4B6  
+MUMMB5 
+MUMMC1 
+MUMMC2C8 
+MUMMC3C7  
+MUMMC4C6 
+MUMMC5  
+MUMMD1  
+MUMMD2D8 
+MUMMD3D7 
+MUMMD4D6 
+MUMMD5  
+MUMME1  
+MUMME2E8  
+MUMME3E7  
+MUMME4E6  
+MUMME5  
+MUMMF1  
+MUMMF2F8  
+MUMMF3F7  
+MUMMF4F6  
+MUMMF5  
+MUMMG1  
+MUMMG2G8 
+MUMMG3G7 
+MUMMG4G6 
+MUMMG5  
+MUMMH1  
+MUMMH2H8  
+MUMMH3H7  
+MUMMH4H6 
+MUMMH5 
+MUMMI0  
+MUMMJ0  
+MUMMK0  
+MUMML0 
+MUMMM0 
+MUMMN0  
+MUMMO0  
+MUMMP0 26 13
+MUMMQ0 
+MUMMR0 
+MUMMS0
+MUMMT0 
+MUMMU0
+MUMMV0 
+MUMMW0
+MUMMX1  
+MUMMX2X8  
+MUMMX3X7  
+MUMMX4X6  
+MUMMX5  
+MUMMY1  
+MUMMY2Y8  
+MUMMY3Y7 
+MUMMY4Y6 
+MUMMY5  
+SNKEA1  	31 59 # Nightfang (FreeDoom)
+SNKEA2A8  	23 62 # Nightfang (FreeDoom)
+SNKEA3A7  	28 56 # Nightfang (FreeDoom)
+SNKEA4A6  	31 53 # Nightfang (FreeDoom)
+SNKEA5  	30 53 # Nightfang (FreeDoom)
+SNKEB1  	19 64 # Nightfang (FreeDoom)
+SNKEB2B8 	21 65 # Nightfang (FreeDoom)
+SNKEB3B7  	28 62 # Nightfang (FreeDoom)
+SNKEB4B6  	33 61 # Nightfang (FreeDoom)
+SNKEB5  	16 65 # Nightfang (FreeDoom)
+SNKEC1  	22 63 # Nightfang (FreeDoom)
+SNKEC2C8  	23 63 # Nightfang (FreeDoom)
+SNKEC3C7  	28 61 # Nightfang (FreeDoom)
+SNKEC4C6  	23 58 # Nightfang (FreeDoom)
+SNKEC5  	30 57 # Nightfang (FreeDoom)
+SNKED1  	18 61 # Nightfang (FreeDoom)
+SNKED2D8  	19 62 # Nightfang (FreeDoom)
+SNKED3D7  	24 59 # Nightfang (FreeDoom)
+SNKED4D6  	26 58 # Nightfang (FreeDoom)
+SNKED5  	18 58 # Nightfang (FreeDoom)
+SNKEE1  	60 # Nightfang (FreeDoom)
+SNKEE2E8  	21 64 # Nightfang (FreeDoom)
+SNKEE3E7  	26 62 # Nightfang (FreeDoom)
+SNKEE4E6  	27 63 # Nightfang (FreeDoom)
+SNKEE5  	31 52 # Nightfang (FreeDoom)
+SNKEF1  	26 53 # Nightfang (FreeDoom)
+SNKEF2F8  	19 57 # Nightfang (FreeDoom)
+SNKEF3F7  	33 53 # Nightfang (FreeDoom)
+SNKEF4F6  	30 53 # Nightfang (FreeDoom)
+SNKEF5  	17 46 # Nightfang (FreeDoom)
+SNKEG0  	37 60 # Nightfang (FreeDoom)
+SNKEH0  	34 59 # Nightfang (FreeDoom)
+SNKEI0  	28 57 # Nightfang (FreeDoom)
+SNKEJ0  	23 45 # Nightfang (FreeDoom)
+SNKEK0  	35 33 # Nightfang (FreeDoom)
+SNKEL0  	35 33 # Nightfang (FreeDoom)
+SNKEM0  	35 33 # Nightfang (FreeDoom)
+SNKEN0  	35 33 # Nightfang (FreeDoom)
+SNKEO0  	35 33 # Nightfang (FreeDoom)
+SNKEP0  	35 33 # Nightfang (FreeDoom)
+SOR2A0	32	11	# SOR2* by Desfar
+SOR2B0	30	32
+SOR2C0	28	48
+SOR2D0	26	60
+SOR2E0	29	63
+SOR2F0	24	67
+SOR2G0	20	70
+SOR2H0	24	70
+SOR2I0	23	76
+SOR2J0	25	83
+SOR2K0	23	79
+SOR2L0	21	81
+SOR2M1	19	69
+SOR2M2	22	69
+SOR2M3	24	69
+SOR2M4	28	69
+SOR2M5	21	69
+SOR2M6	25	69
+SOR2M7	29	69
+SOR2M8	26	69
+SOR2N1	19	70
+SOR2N2	19	70
+SOR2N3	22	70
+SOR2N4	20	70
+SOR2N5	21	70
+SOR2N6	17	70
+SOR2N7	18	70
+SOR2N8	18	70
+SOR2O1	16	69
+SOR2O2	23	69
+SOR2O3	27	69
+SOR2O4	20	69
+SOR2O5	17	69
+SOR2O6	25	69
+SOR2O7	27	69
+SOR2O8	21	69
+SOR2P1	19	69
+SOR2P2	21	69
+SOR2P3	24	69
+SOR2P4	17	69
+SOR2P5	21	69
+SOR2P6	20	69
+SOR2P7	21	69
+SOR2P8	19	69
+SOR2Q1	24	69
+SOR2Q2	19	69
+SOR2Q3	17	69
+SOR2Q4	25	69
+SOR2Q5	24	69
+SOR2Q6	18	69
+SOR2Q7	16	69
+SOR2Q8	25	69
+SOR2R1	21	67
+SOR2R2	24	67
+SOR2R3	33	67
+SOR2R4	21	67
+SOR2R5	21	67
+SOR2R6	22	67
+SOR2R7	21	67
+SOR2R8	22	67
+SOR2S1	17	69
+SOR2S2	27	69
+SOR2S3	27	69
+SOR2S4	17	69
+SOR2S5	17	69
+SOR2S6	27	69
+SOR2S7	23	69
+SOR2S8	15	69
+SOR2T1	17	69
+SOR2T2	32	69
+SOR2T3	32	69
+SOR2T4	17	69
+SOR2T5	17	69
+SOR2T6	27	69
+SOR2T7	23	69
+SOR2T8	15	69
+SRCRA1C1	23	99	# SRCR* by Desfar
+SRCRA2C8	44	98
+SRCRA3C7	47	94
+SRCRA4C6	29	93
+SRCRA5C5	33	87
+SRCRA6C4	40	93
+SRCRA7C3	50	97
+SRCRA8C2	42	98
+SRCRB1D1	31	104
+SRCRB2D8	35	97
+SRCRB3D7	36	95
+SRCRB4D6	27	91
+SRCRB5D5	38	86
+SRCRB6D4	37	87
+SRCRB7D3	37	94
+SRCRB8D2	14	98
+SRCRE0	41	108
+SRCRF0	39	97
+SRCRG0	37	88
+SRCRH0	44	71
+SRCRI0	54	60
+SRCRJ0	57	56
+SRCRK0	58	45
+SRCRL0	58	19
+SRCRM0	58	36
+SRCRN0	58	33
+SRCRO0	58	34
+SRCRP0	58	18
+SRCRQ1	38	120
+SRCRQ2	25	117
+SRCRQ3	38	115
+SRCRQ4	35	112
+SRCRQ5	44	106
+SRCRQ6	26	108
+SRCRQ7	48	107
+SRCRQ8	61	108
+SRCRR1	49	121
+SRCRR2	67	119
+SRCRR3	48	110
+SRCRR4	26	106
+SRCRR5	52	96
+SRCRR6	47	97
+SRCRR7	31	101
+SRCRR8	26	102
+SRCRS1	16	113
+SRCRS2	30	111
+SRCRS3	50	102
+SRCRS4	55	102
+SRCRS5	51	96
+SRCRS6	53	95
+SRCRS7	28	91
+SRCRS8	27	96
+WZRDA1	21	58	# Pawel "Nmn" Zarczynski
+WZRDA2A8	25	61	# Pawel "Nmn" Zarczynski
+WZRDA3A7	29	61	# Pawel "Nmn" Zarczynski
+WZRDA4A6	25	61	# Pawel "Nmn" Zarczynski
+WZRDA5	22	60	# Pawel "Nmn" Zarczynski
+WZRDB1	21	56	# Pawel "Nmn" Zarczynski
+WZRDB2B8	25	56	# Pawel "Nmn" Zarczynski
+WZRDB3B7	27	60	# Pawel "Nmn" Zarczynski
+WZRDB4B6	25	60	# Pawel "Nmn" Zarczynski
+WZRDB5	22	56	# Pawel "Nmn" Zarczynski
+WZRDC1	21	58	# Pawel "Nmn" Zarczynski
+WZRDC2C8	25	55	# Pawel "Nmn" Zarczynski
+WZRDC3C7	28	52	# Pawel "Nmn" Zarczynski
+WZRDC4C6	24	54	# Pawel "Nmn" Zarczynski
+WZRDC5	22	58	# Pawel "Nmn" Zarczynski
+WZRDD1	24	62	# Pawel "Nmn" Zarczynski
+WZRDD2D8	27	57	# Pawel "Nmn" Zarczynski
+WZRDD3D7	28	57	# Pawel "Nmn" Zarczynski
+WZRDD4D6	28	58	# Pawel "Nmn" Zarczynski
+WZRDD5	24	58	# Pawel "Nmn" Zarczynski
+WZRDE1	21	48	# Pawel "Nmn" Zarczynski
+WZRDE2E8	25	50	# Pawel "Nmn" Zarczynski
+WZRDE3E7	27	49	# Pawel "Nmn" Zarczynski
+WZRDE4E6	25	50	# Pawel "Nmn" Zarczynski
+WZRDE5	22	51	# Pawel "Nmn" Zarczynski
+WZRDF0	26	50	# Pawel "Nmn" Zarczynski
+WZRDG0	25	50	# Pawel "Nmn" Zarczynski
+WZRDH0	25	48	# Pawel "Nmn" Zarczynski
+WZRDI0	26	41	# Pawel "Nmn" Zarczynski
+WZRDJ0	29	39	# Pawel "Nmn" Zarczynski
+WZRDK0	32	41	# Pawel "Nmn" Zarczynski
+WZRDL0	28	34	# Pawel "Nmn" Zarczynski
+WZRDM0	28	29	# Pawel "Nmn" Zarczynski
+# Weapons
+CRBWA0   -13 -95 # Neoworm
+CRBWB0   -13 -95 # Neoworm
+CRBWC0   -13 -95 # Neoworm
+CRBWD0   -1 -106 # Neoworm
+CRBWE0   -3 -106 # Neoworm
+CRBWF0   -13 -106 # Neoworm
+CRBWG0   -13 -104 # Neoworm
+CRBWH0   -13 -99 # Neoworm
+BLSRA0   -103 -84 # Eriance
+BLSRB0   -103 -84 # Eriance
+BLSRC0   -97 -84 # Eriance
+BLSRD0   -89 -73 # Eriance
+BSKLA0    # Reinaldo "Horror Movie Guy"
+BSKLB0    # Reinaldo "Horror Movie Guy"
+BSKLC0    # Reinaldo "Horror Movie Guy"
+BSKLD0    # Reinaldo "Horror Movie Guy"
+BSKLE0    # Reinaldo "Horror Movie Guy"
+BSKLF0    # Reinaldo "Horror Movie Guy"
+CHDLA0   28 60 # Warfare
+CHDLB0   28 60 # Warfare
+CHDLC0   28 60 # Warfare
+AKYYA0   6 25 # Stilgar
+AKYYB0   6 25 # Stilgar
+AKYYC0   6 25 # Stilgar
+AKYYD0   6 25 # Stilgar
+AKYYE0   6 25 # Stilgar
+AKYYF0   6 25 # Stilgar
+AKYYG0   6 25 # Stilgar
+AKYYH0   6 25 # Stilgar
+AKYYI0   6 25 # Stilgar
+AKYYJ0   6 25 # Stilgar
+BKYYA0   6 25 # Stilgar
+BKYYB0   6 25 # Stilgar
+BKYYC0   6 25 # Stilgar
+BKYYD0   6 25 # Stilgar
+BKYYE0   6 25 # Stilgar
+BKYYF0   6 25 # Stilgar
+BKYYG0   6 25 # Stilgar
+BKYYH0   6 25 # Stilgar
+BKYYI0   6 25 # Stilgar
+BKYYJ0   6 25 # Stilgar
+CKYYA0   6 25 # Stilgar
+CKYYB0   6 25 # Stilgar
+CKYYC0   6 25 # Stilgar
+CKYYD0   6 25 # Stilgar
+CKYYE0   6 25 # Stilgar
+CKYYF0   6 25 # Stilgar
+CKYYG0   6 25 # Stilgar
+CKYYH0   6 25 # Stilgar
+CKYYI0   6 25 # Stilgar
+EGGCA0   13 36 # * PLACE HOLDER *
+EGGCB0   13 36 # * PLACE HOLDER *
+EGGCC0   13 36 # * PLACE HOLDER *
+EGGMA0   6 9 # * PLACE HOLDER *
+EGGMB0   6 9 # * PLACE HOLDER *
+EGGMC0   6 9 # * PLACE HOLDER *
+EGGMD0   6 9 # * PLACE HOLDER *
+EGGME0   6 9 # * PLACE HOLDER *
+FBMBA0   13 34 # Stilgar
+FBMBB0   13 34 # * PLACE HOLDER *
+FBMBC0   13 34 # * PLACE HOLDER *
+FBMBD0   13 34 # * PLACE HOLDER *
+FBMBE0   13 34 # Stilgar
+FDTHA0   14 46 # * PLACE HOLDER *
+FDTHB0   15 50 # * PLACE HOLDER *
+FDTHC0   17 46 # * PLACE HOLDER *
+FDTHD0   19 48 # * PLACE HOLDER *
+FDTHE0   13 48 # * PLACE HOLDER *
+FDTHF0   14 47 # * PLACE HOLDER *
+FDTHG0   14 47 # * PLACE HOLDER *
+FDTHH0   17 41 # * PLACE HOLDER *
+FDTHI0   19 38 # * PLACE HOLDER *
+FDTHJ0   19 40 # * PLACE HOLDER *
+FDTHK0   18 36 # * PLACE HOLDER *
+FDTHL0   18 38 # * PLACE HOLDER *
+FDTHM0   22 26 # * PLACE HOLDER *
+FDTHN0   27 23 # * PLACE HOLDER *
+FDTHO0   28 15 # * PLACE HOLDER *
+FDTHP0   33 9 # * PLACE HOLDER *
+FDTHQ0   32 8 # * PLACE HOLDER *
+FDTHR0   32 8 # * PLACE HOLDER *
+FRB1A1   	17 17 # Espi
+FRB1A8A2  	28 14  # Espi
+FRB1A7A3   	33 12 # Espi
+FRB1A6A4   	27 15 # Espi
+FRB1A5  	14 15 # Espi
+FRB1B1   	17 17 # Espi
+FRB1B8B2   	25 14 # Espi
+FRB1B7B3   	31 13 # Espi
+FRB1B6B4  	23 15 # Espi
+FRB1B5   	12 13 # Espi
+FRB1C1   	17 17 # Espi
+FRB1C8C2	28 14 # Espi
+FRB1C7C3	33 12 # Espi
+FRB1C6C4	27 15 # Espi
+FRB1C5   	14 15 # Espi
+FRB1D0   	12 13 # Espi
+FRB1E0  	12 13 # Espi
+FRB1F0   	12 11 # Espi
+FRB1G0   	12 11 # Espi
+FRB1H0   	12 11 # Espi
+FX00A0	7	7 # Talon1024
+FX00B0	7	7 # Talon1024
+FX00C0    # * PLACE HOLDER *
+FX00D0    # * PLACE HOLDER *
+FX00E0    # * PLACE HOLDER *
+FX00F0    # * PLACE HOLDER *
+FX00G0    # * PLACE HOLDER *
+FX00H0   9 9 # Leilei
+FX00I0   12 15 # Leilei
+FX00J0   15 18 # Leilei
+FX00K0   22 23 # Leilei
+FX00L0   25 27 # Leilei
+FX00M0   27 29 # Leilei
+FX01A0   7 12 # BethOfDeath aka bpeterson
+FX01B0   7 12 # BethOfDeath aka bpeterson
+FX01C0   6 6 # BethOfDeath aka bpeterson
+FX01D0   7 7 # BethOfDeath aka bpeterson
+FX01E0   7 6 # BethOfDeath aka bpeterson
+FX01F0   8 8 # BethOfDeath aka bpeterson
+FX01G0   9 12 # BethOfDeath aka bpeterson
+FX01H0   9 12 # BethOfDeath aka bpeterson
+FX02A0   4 4 # Protox
+FX02B0   4 4 # SuperSomariDX
+FX02C0   8 8 # Protox
+FX02D0   8 8 # SuperSomariDX
+FX02E0   15 14 # SuperSomariDX
+FX02F0    # * PLACE HOLDER *
+FX02G0    # * PLACE HOLDER *
+FX02H0    # * PLACE HOLDER *
+FX02I0    # * PLACE HOLDER *
+FX02J0    # * PLACE HOLDER *
+FX03A1   4 5 # Neoworm
+FX03A2A8 11 3 # Neoworm
+FX03A3A7 13 3 # Neoworm
+FX03A4A6 10 3 # Neoworm
+FX03A5   3 5 # Neoworm
+FX03B1   6 5 # Neoworm
+FX03B2B8 12 6 # Neoworm
+FX03B3B7 21 5 # Neoworm
+FX03B4B6 12 6 # Neoworm
+FX03B5   4 8 # Neoworm
+FX03C0   11 11 # Leilei
+FX03D0   21 14 # Leilei
+FX03E0   26 12 # Leilei
+FX03F0   4 8   # * PLACE HOLDER *
+FX03G0    # * PLACE HOLDER *
+FX03H0   11 10 # Leilei
+FX03I0   21 17 # Leilei
+FX03J0   26 8 # Leilei
+FX04A1    # Eriance
+FX04A2A8    # Eriance
+FX04A3A7    # Eriance
+FX04A4A6    # Eriance
+FX04A5    # Eriance
+FX04B0    # * PLACE HOLDER *
+FX04C0    # * PLACE HOLDER *
+FX04D0    # * PLACE HOLDER *
+FX04E0    # * PLACE HOLDER *
+FX04F0    # * PLACE HOLDER *
+FX05A1A5    # Protox
+FX05A2A8    # Protox
+FX05A3A7    # Protox
+FX05A4A6    # Protox
+FX05B1B5    # Protox
+FX05B2B8    # Protox
+FX05B3B7    # Protox
+FX05B4B6    # Protox
+FX05C1C5    # Protox
+FX05C2C8    # Protox
+FX05C3C7    # Protox
+FX05C4C6    # Protox
+FX05D0    # * PLACE HOLDER *
+FX05E0    # * PLACE HOLDER *
+FX05F0    # * PLACE HOLDER *
+FX05G0    # * PLACE HOLDER *
+FX05H1    # * PLACE HOLDER *
+FX05H2H8    # * PLACE HOLDER *
+FX05H3H7    # * PLACE HOLDER *
+FX05H4H6   # * PLACE HOLDER *
+FX05H5    # * PLACE HOLDER *
+FX05I1    # * PLACE HOLDER *
+FX05I2I8    # * PLACE HOLDER *
+FX05I3I7    # * PLACE HOLDER *
+FX05I4I6    # * PLACE HOLDER *
+FX05I5    # * PLACE HOLDER *
+FX05J1    # * PLACE HOLDER *
+FX05J2J8    # * PLACE HOLDER *
+FX05J3J7    # * PLACE HOLDER *
+FX05J4J6   # * PLACE HOLDER *
+FX05J5    # * PLACE HOLDER *
+FX06A0   # * PLACE HOLDER *
+FX06B0    # * PLACE HOLDER *
+FX06C0    # * PLACE HOLDER *
+FX06D0    # * PLACE HOLDER *
+FX06E0    # * PLACE HOLDER *
+FX06F0    # * PLACE HOLDER *
+FX06G0    # * PLACE HOLDER *
+FX07A0    # Craneo
+FX07B0    # Craneo
+FX07C0    # Craneo
+FX07D0    # Craneo
+FX07E0    # Craneo
+FX07F0    # Craneo
+FX07G0    # Craneo
+FX08A0    # * PLACE HOLDER *
+FX08B0    # * PLACE HOLDER *
+FX08C0   # * PLACE HOLDER *
+FX08D0   # * PLACE HOLDER *
+FX08E0   # * PLACE HOLDER *
+FX08F0    # * PLACE HOLDER *
+FX08G0    # * PLACE HOLDER *
+FX08H0    # * PLACE HOLDER *
+FX08I0    # * PLACE HOLDER *
+FX08J0    # * PLACE HOLDER *
+FX08K0    # * PLACE HOLDER *
+FX09A0    # SuperSomariDX
+FX09B0    # SuperSomariDX
+FX09C0    # * PLACE HOLDER *
+FX09D0    # * PLACE HOLDER *
+FX09E0    # * PLACE HOLDER *
+FX09F0    # * PLACE HOLDER *
+FX09G0    # * PLACE HOLDER *
+FX09H0    # * PLACE HOLDER *
+FX09I0    # * PLACE HOLDER *
+FX09J0    # * PLACE HOLDER *
+FX09K0    # * PLACE HOLDER *
+FX10A0    # Protox
+FX10B0    # Protox
+FX10C0    # Protox
+FX10D0    # Protox
+FX10E0    # Protox
+FX10F0    # Protox
+FX10G0    # Protox
+FX11A0	6	6	# Printz
+FX11B0	9	9	# Printz
+FX11C0	11	12	# Printz
+FX11D0	15	16	# Printz
+FX11E0	16	17	# Printz
+FX11F0	4	4	# Printz
+FX11G0	2	2	# Printz
+FX12A1   	# * PLACE HOLDER *
+FX12A2A8   	# * PLACE HOLDER *
+FX12A3A7   	# * PLACE HOLDER *
+FX12A4A6 	# * PLACE HOLDER *
+FX12A5   	# * PLACE HOLDER *
+FX12B1   	# * PLACE HOLDER *
+FX12B2B8   	# * PLACE HOLDER *
+FX12B3B7   	# * PLACE HOLDER *
+FX12B4B6   	# * PLACE HOLDER *
+FX12B5   	# * PLACE HOLDER *
+FX12C0   	# * PLACE HOLDER *
+FX12D0   	# * PLACE HOLDER *
+FX12E0   	# * PLACE HOLDER *
+FX12F0   	# * PLACE HOLDER *
+FX12G0   	# * PLACE HOLDER *
+FX12H0   	# * PLACE HOLDER *
+FX13A0    # * PLACE HOLDER *
+FX13B0    # * PLACE HOLDER *
+FX13C0    # * PLACE HOLDER *
+FX13D0    # * PLACE HOLDER *
+FX13E0    # * PLACE HOLDER *
+FX13F0    # * PLACE HOLDER *
+FX13G0    # * PLACE HOLDER *
+FX13H0    # * PLACE HOLDER *
+FX13I0    # * PLACE HOLDER *
+FX13J0    # * PLACE HOLDER *
+FX13K0    # * PLACE HOLDER *
+FX13L0   # * PLACE HOLDER *
+FX13M0   # * PLACE HOLDER *
+FX14A1    # * PLACE HOLDER *
+FX14A2A8   # * PLACE HOLDER *
+FX14A3A7   # * PLACE HOLDER *
+FX14A4A6    # * PLACE HOLDER *
+FX14A5    # * PLACE HOLDER *
+FX14B1   # * PLACE HOLDER *
+FX14B2B8    # * PLACE HOLDER *
+FX14B3B7    # * PLACE HOLDER *
+FX14B4B6    # * PLACE HOLDER *
+FX14B5    # * PLACE HOLDER *
+FX14C1    # * PLACE HOLDER *
+FX14C2C8    # * PLACE HOLDER *
+FX14C3C7    # * PLACE HOLDER *
+FX14C4C6    # * PLACE HOLDER *
+FX14C5    # * PLACE HOLDER *
+FX14D0    # * PLACE HOLDER *
+FX14E0   # * PLACE HOLDER *
+FX14F0    # * PLACE HOLDER *
+FX14G0    # * PLACE HOLDER *
+FX14H0    # * PLACE HOLDER *
+FX15A1   	 # BigProjectAlone
+FX15A2A8   	 # BigProjectAlone 
+FX15A3A7   	 # BigProjectAlone 
+FX15A4A6   	 # BigProjectAlone 
+FX15A5   	 # BigProjectAlone 
+FX15B1   	 # BigProjectAlone
+FX15B2B8   	 # BigProjectAlone 
+FX15B3B7   	 # BigProjectAlone 
+FX15B4B6   	 # BigProjectAlone 
+FX15B5   	 # BigProjectAlone 
+FX15C1   	 # BigProjectAlone
+FX15C2C8    # BigProjectAlone 
+FX15C3C7   	 # BigProjectAlone 
+FX15C4C6   	 # BigProjectAlone 
+FX15C5   	 # BigProjectAlone 
+FX15D0   	 # BigProjectAlone
+FX15E0   	 # BigProjectAlone
+FX15F0   	 # BigProjectAlone
+FX15G0   	 # BigProjectAlone
+FX16A1	11	10 # All FX16* by Amuscaria_BossMeteor
+FX16A2A8	22	10
+FX16A3A7	31	9
+FX16A4A6	23	9
+FX16A5	11	10
+FX16B1	11	10
+FX16B2B8	22	10
+FX16B3B7	31	9
+FX16B4B6	23	9
+FX16B5	11	10
+FX16C1	11	10
+FX16C2C8	22	10
+FX16C3C7	31	9
+FX16C4C6	23	9
+FX16C5	11	10
+FX16D0	3	4
+FX16E0	3	4
+FX16F0	4	4
+FX16G0	13	13
+FX16H0	15	15
+FX16I0	16	16
+FX16J0	18	17
+FX16K0	19	18
+FX16L0	18	18
+FX17A0   9 11 # 40oz
+FX17B0   9 11 # 40oz
+FX17C0   9 11 # 40oz
+FX17D0   9 11 # 40oz
+FX17E0   9 11 # 40oz
+FX17F0   16 15 # 40oz
+FX17G0   16 15 # 40oz
+FX17H0   16 15 # 40oz
+FX17I0   16 15 # 40oz
+FX17J0   16 15 # 40oz
+FX17K0   16 15 # 40oz
+FX17L0   16 15 # 40oz
+FX18A0    # * PLACE HOLDER *
+FX18B0    # * PLACE HOLDER *
+FX18C0    # * PLACE HOLDER *
+FX18D0    # * PLACE HOLDER *
+FX18E0    # * PLACE HOLDER *
+FX18F0    # * PLACE HOLDER *
+FX18G0   # * PLACE HOLDER *
+FX18H0   8 8 # 40oz
+FX18I0   8 8 # 40oz
+FX18J0   8 8 # 40oz
+FX18K0   8 8 # 40oz
+FX18L0   8 8 # 40oz
+FX18M1   4 5 # 40oz
+FX18M8M2 8 5 # 40oz
+FX18M7M3 12 5 # 40oz
+FX18M6M4 8 5 # 40oz
+FX18M5   4 5 # 40oz
+FX18N1 FX18M1   4 5 # 40oz
+FX18N8N2 FX18M8M2 8 5 # 40oz
+FX18N7N3 FX18M7M3 12 5 # 40oz
+FX18N6N4 FX18M6M4 8 5 # 40oz
+FX18N5 FX18M5   4 5 # 40oz
+FX18O0    # * PLACE HOLDER *
+FX18P0    # * PLACE HOLDER *
+FX18Q0    # * PLACE HOLDER *
+FX18R0    # * PLACE HOLDER *
+FX18S0    # * PLACE HOLDER *
+FX20A0    # * PLACE HOLDER *
+FX20B0   # * PLACE HOLDER *
+FX20C0    # * PLACE HOLDER *
+FX20D0    # * PLACE HOLDER *
+FX20E0   # * PLACE HOLDER *
+FX20F0    # * PLACE HOLDER *
+FX20G0   # * PLACE HOLDER *
+FX20H0    # * PLACE HOLDER *
+FX20I0   # * PLACE HOLDER *
+FX21A0    # * PLACE HOLDER *
+FX21B0   # * PLACE HOLDER *
+FX21C0    # * PLACE HOLDER *
+FX21D0    # * PLACE HOLDER *
+FX21E0    # * PLACE HOLDER *
+FX21F0    # * PLACE HOLDER *
+FX21G0    # * PLACE HOLDER *
+FX21H0    # * PLACE HOLDER *
+FX21I0    # * PLACE HOLDER *
+FX22A0   2 9 # Leilei
+FX22B0   6 8 # Leilei
+FX22C0   11 20 # Leilei
+FX22D0   11 30 # Leilei
+FX22E0   12 28 # Leilei
+FX22F0   8 2 # Leilei
+FX22G0    # * PLACE HOLDER *
+FX22H0    # * PLACE HOLDER *
+FX22I0    # * PLACE HOLDER *
+FX23A0    # * PLACE HOLDER *
+FX23B0    # * PLACE HOLDER *
+FX23C0    # * PLACE HOLDER *
+FX23D0    # * PLACE HOLDER *
+FX23E0    # * PLACE HOLDER *
+FX23F0    # * PLACE HOLDER *
+FX23G0    # * PLACE HOLDER *
+FX23H0    # * PLACE HOLDER *
+FX23I0    # * PLACE HOLDER *
+GAUNA0   -110 -118 # Eriance
+GAUNB0   -103 -105 # Eriance
+GAUNC0   -96 -90 # Eriance
+GAUND0   -82 -69 # Eriance
+GAUNE0   -74 -63 # Eriance
+GAUNF0   -82 -65 # Eriance
+GAUNG0   -110 -118 # Eriance
+GAUNH0   -110 -118 # Eriance
+GAUNI0   -110 -118 # Eriance
+GAUNJ0   -103 -105 # Eriance
+GAUNK0   -96 -90 # Eriance
+GAUNL0   -82 -69 # Eriance
+GAUNM0   -74 -63 # Eriance
+GAUNN0   -82 -65 # Erianc
+GWNDA0   -139 -94 # BethOfDeath aka bpeterson
+GWNDB0   -139 -85 # BethOfDeath aka bpeterson
+GWNDC0   -139 -79 # BethOfDeath aka bpeterson
+GWNDD0   -139 -71 # BethOfDeath aka bpeterson
+HRODA0   -70 -103 # Eriance
+HRODB0   -70 -103 # Eriance
+HRODC0   -70 -103 # Eriance
+HRODD0   -69 -101 # Eriance
+HRODE0   -72 -92 # Eriance
+HRODF0   -75 -90 # Eriance
+HRODG0   -75 -90 # Eriance
+INVSA0   12 42 # Stilgar
+KFR1A0   20 77 # Warfare & Stilgar
+KFR1B0   20 77 # Warfare & Stilgar
+KFR1C0   20 77 # Warfare & Stilgar
+KFR1D0   20 77 # Warfare & Stilgar
+KFR1E0   20 77 # Warfare & Stilgar
+KFR1F0   20 77 # Warfare & Stilgar
+KFR1G0   20 77 # Warfare & Stilgar
+KFR1H0   20 77 # Warfare & Stilgar
+KGZ1A0   22 61 # Stilgar
+KGZBA0   13 25 # Stilgar
+KGZGA0   13 25 # Stilgar
+KGZYA0   13 25 # Stilgar
+LVASA0    # * PLACE HOLDER *
+LVASB0    # * PLACE HOLDER *
+LVASC0    # * PLACE HOLDER *
+LVASD0    # * PLACE HOLDER *
+LVASE0    # * PLACE HOLDER *
+LVASF0    # * PLACE HOLDER *
+LVASG0    # * PLACE HOLDER *
+LVASH0    # * PLACE HOLDER *
+LVASI0   # * PLACE HOLDER *
+LVASJ0    # * PLACE HOLDER *
+LVASK0    # * PLACE HOLDER *
+MACEA0	-109	-100 # Eriance
+MACEB0	-109	-100 # Eriance
+MACEC0	-109	-95  # Eriance
+MACED0	-109	-90  # Eriance
+MACEE0	-109	-95  # Eriance
+MACEF0	-109	-100 # Eriance
+PHNXA0   -92 -86 # Eriance
+PHNXB0   -92 -86 # Eriance
+PHNXC0   -61 -76 # Eriance
+PHNXD0   -92 -90 # Eriance
+PLAYA1		13 50	# Reinaldo "Horror Movie Guy"
+PLAYA2A8	13 52	# Reinaldo "Horror Movie Guy"
+PLAYA3A7	16 51	# Reinaldo "Horror Movie Guy"
+PLAYA4A6	14 50	# Reinaldo "Horror Movie Guy"
+PLAYA5		14 50	# Reinaldo "Horror Movie Guy"
+PLAYB1		15 51	# Reinaldo "Horror Movie Guy"
+PLAYB2B8	14 52	# Reinaldo "Horror Movie Guy"
+PLAYB3B7	13 52	# Reinaldo "Horror Movie Guy"
+PLAYB4B6	15 51	# Reinaldo "Horror Movie Guy"
+PLAYB5		16 51	# Reinaldo "Horror Movie Guy"
+PLAYC1		12 50	# Reinaldo "Horror Movie Guy"
+PLAYC2C8	13 51	# Reinaldo "Horror Movie Guy"
+PLAYC3C7	14 51	# Reinaldo "Horror Movie Guy"
+PLAYC4C6	16 50	# Reinaldo "Horror Movie Guy"
+PLAYC5		16 50	# Reinaldo "Horror Movie Guy"
+PLAYD1		15 51	# Reinaldo "Horror Movie Guy"
+PLAYD2D8	13 51	# Reinaldo "Horror Movie Guy"
+PLAYD3D7	13 52	# Reinaldo "Horror Movie Guy"
+PLAYD4D6	15 51	# Reinaldo "Horror Movie Guy"
+PLAYD5		16 51	# Reinaldo "Horror Movie Guy"
+PLAYE1		11 48	# Reinaldo "Horror Movie Guy"
+PLAYE2E8	17 48	# Reinaldo "Horror Movie Guy"
+PLAYE3E7	19 48 	# Reinaldo "Horror Movie Guy"
+PLAYE4E6	15 48	# Reinaldo "Horror Movie Guy"
+PLAYE5		11 48	# Reinaldo "Horror Movie Guy"
+PLAYF1		12 48	# Reinaldo "Horror Movie Guy"
+PLAYF2F8	22 48	# Reinaldo "Horror Movie Guy"
+PLAYF3F7	21 48	# Reinaldo "Horror Movie Guy"
+PLAYF4F6	18 48	# Reinaldo "Horror Movie Guy"
+PLAYF5		13 48	# Reinaldo "Horror Movie Guy"
+PLAYG1		16 49	# Reinaldo "Horror Movie Guy"
+PLAYG2G8	16 50	# Reinaldo "Horror Movie Guy"
+PLAYG3G7	12 50	# Reinaldo "Horror Movie Guy"
+PLAYG4G6	14 49	# Reinaldo "Horror Movie Guy"
+PLAYG5		18 49	# Reinaldo "Horror Movie Guy"
+PLAYH0		16 49	# Reinaldo "Horror Movie Guy"
+PLAYI0		19 45	# Reinaldo "Horror Movie Guy"
+PLAYJ0		20 40	# Reinaldo "Horror Movie Guy"
+PLAYK0		23 39	# Reinaldo "Horror Movie Guy"
+PLAYL0 	24 33	# Reinaldo "Horror Movie Guy"
+PLAYM0		27 23	# Reinaldo "Horror Movie Guy"
+PLAYN0		27 17	# Reinaldo "Horror Movie Guy"
+PLAYO0		27 17	# Reinaldo "Horror Movie Guy"
+PLAYP0 	27 18	# Reinaldo "Horror Movie Guy"
+PLAYQ0  	14 48	# Reinaldo "Horror Movie Guy"
+PLAYR0   	15 41	# Reinaldo "Horror Movie Guy"
+PLAYS0  	15 35	# Reinaldo "Horror Movie Guy"
+PLAYT0  	21 32	# Reinaldo "Horror Movie Guy"
+PLAYU0   	20 21	# Reinaldo "Horror Movie Guy"
+PLAYV0  	23 19	# Reinaldo "Horror Movie Guy"
+PLAYW0   	23 15	# Reinaldo "Horror Movie Guy"
+PLAYX0   	24 13	# Reinaldo "Horror Movie Guy"
+PLAYY0   	26 13	# Reinaldo "Horror Movie Guy"
+PPODA0   23 40 # Stilgar
+PPODB0   23 40 # Stilgar
+PPODC0   23 40 # (FreeDoom Team)
+PPODD0   23 40 # (FreeDoom Team)
+PPODE0   23 40 # (FreeDoom Team)
+PPODF0   23 40 # (FreeDoom Team)
+PPODG0   23 40 # Stilgar
+PPODH0   23 40 # Stilgar
+PPODI0   23 40 # Stilgar
+PPODJ0   23 40 # Stilgar
+PPODK0   23 40 # Stilgar
+PPODL0   23 40 # Stilgar
+PPODM0   23 40 # Stilgar
+PPODN0   23 40 # Stilgar
+PPODO0   23 40 # Stilgar
+PPODP0   23 40 # Stilgar
+PTN2A0   8 30 # Stilgar
+PTN2B0   8 30 # Stilgar
+PTN2C0   8 30 # Stilgar
+PUF1A0   5 4  # * PLACE HOLDER *
+PUF1B0   5 4 # * PLACE HOLDER *
+PUF1C0   2 5 # * PLACE HOLDER *
+PUF1D0   2 5 # * PLACE HOLDER *
+PUF1E0   5 5 # * PLACE HOLDER *
+PUF1F0   5 5 # * PLACE HOLDER *
+PUF1G0   5 5 # * PLACE HOLDER *
+PUF1H0   5 5 # * PLACE HOLDER *
+PUF2A0   15 15   # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2B0   14 14 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2C0   14 14 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2D0   14 15 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2E0   15 16 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF3A0   4 4  # * PLACE HOLDER *
+PUF3B0   4 4  # * PLACE HOLDER *
+PUF3C0   2 2 # * PLACE HOLDER *
+PUF3D0   2 2 # * PLACE HOLDER *
+PUF4A0   5 5 # * PLACE HOLDER *
+PUF4B0   5 5 # * PLACE HOLDER *
+PUF4C0   6 6 # * PLACE HOLDER *
+PUF4D0   6 6 # * PLACE HOLDER *
+PUF4E0   6 6 # * PLACE HOLDER *
+PUF4F0   6 6 # * PLACE HOLDER *
+RAXEA1   # BigProjectAlone
+RAXEA2A8    # BigProjectAlone 
+RAXEA3A7    # BigProjectAlone 
+RAXEA4A6    # BigProjectAlone 
+RAXEA5    # BigProjectAlone 
+RAXEB1    # BigProjectAlone
+RAXEB2B8    # BigProjectAlone 
+RAXEB3B7    # BigProjectAlone 
+RAXEB4B6    # BigProjectAlone 
+RAXEB5    # BigProjectAlone 
+RAXEC0    # BigProjectAlone
+RAXED0    # BigProjectAlone
+RAXEE0    # BigProjectAlone
+SDTHA0	24	69 # SDTH* by Desfar
+SDTHB0	24	72
+SDTHC0	29	70
+SDTHD0	29	70
+SDTHE0	29	70
+SDTHF0	29	70
+SDTHG0	29	70
+SDTHH0	29	70
+SDTHI0	29	78
+SDTHJ0	29	68
+SDTHK0	29	64
+SDTHL0	32	63
+SDTHM0	31	30
+SDTHN0	32	9
+SDTHO0	32	9
+SFFIA0    # * PLACE HOLDER *
+SFFIB0    # * PLACE HOLDER *
+SFFIC0    # * PLACE HOLDER *
+SFFID0    # * PLACE HOLDER *
+SFFIE0    # * PLACE HOLDER *
+SHRDA0    # * PLACE HOLDER *
+SHRDB0    # * PLACE HOLDER *
+SHRDC0    # * PLACE HOLDER *
+SHRDD0    # * PLACE HOLDER *
+SHRDE0    # * PLACE HOLDER *
+SHRDF0    # * PLACE HOLDER *
+SKH1A0   5 75 # Stilgar
+SKH2A0   6 61 # Stilgar
+SKH3A0   6 50 # Stilgar
+SKH4A0   7 36 # Stilgar
+SLDGA0    # * PLACE HOLDER *
+SLDGB0    # * PLACE HOLDER *
+SLDGC0    # * PLACE HOLDER *
+SLDGD0    # * PLACE HOLDER *
+SLDGE0    # * PLACE HOLDER *
+SLDGF0    # * PLACE HOLDER *
+SLDGG0    # * PLACE HOLDER *
+SLDGH0    # * PLACE HOLDER *
+SMPLA0	32	41	# Craneo
+SNFXA0    # * PLACE HOLDER *
+SNFXB0    # * PLACE HOLDER *
+SNFXC0    # * PLACE HOLDER *
+SNFXD0    # * PLACE HOLDER *
+SNFXE0    # * PLACE HOLDER *
+SNFXF0    # * PLACE HOLDER *
+SNFXG0    # * PLACE HOLDER *
+SNFXH0    # * PLACE HOLDER *
+SNFXI0    # * PLACE HOLDER *
+SNFXJ0    # * PLACE HOLDER *
+SNFXK0    # * PLACE HOLDER *
+SNFXL0    # * PLACE HOLDER *
+SNFXM0    # * PLACE HOLDER *
+SNFXN0    # * PLACE HOLDER *
+SNFXO0    # * PLACE HOLDER *
+SPAXA0    # Protox
+SPAXB0    # Protox
+SPAXC0    # Protox
+SPAXD0    # Protox
+SPAXE0    # Protox
+SPAXF0    # Protox
+SPHLA0   9 31 	# Stilgar
+SPSHA0   5 6 	# 40oz
+SPSHB0   5 6 	# 40oz
+SPSHC0   5 6 	# 40oz
+SPSHD0   7 6 	# 40oz
+SPSHE0   14 8 	# 40oz
+SPSHF0   16 15	# 40oz
+SPSHG0   16 23	# 40oz
+SPSHH0   16 23	# 40oz
+SPSHI0   16 21	# 40oz
+SPSHJ0   16 23	# 40oz
+SPSHK0   16 10	# 40oz
+SRTCA0   7 63	# Stilgar
+SRTCB0   7 63	# Stilgar
+SRTCC0   7 63	# Stilgar
+STFFA0	-206	-85	# Amuscaria_DEclipseSword 
+STFFB0	-155	10	# Amuscaria_DEclipseSword 
+STFFC0	-84		-44	# Amuscaria_DEclipseSword 
+STFFD0	-200	-69	# Amuscaria_DEclipseSword 
+STFFE0	-199	-71	# Amuscaria_DEclipseSword 
+STFFF0	-200	-70	# Amuscaria_DEclipseSword 
+STFFG0	-155	16	# Amuscaria_DEclipseSword 
+STFFH0	-82		-10	# Amuscaria_DEclipseSword 
+TELEA0   TELEE0	8 8 # * PLACE HOLDER *
+TELEB0   TELEG0        8 8 # * PLACE HOLDER *
+TELEC0   GOD1          16 15 # * PLACE HOLDER *
+TELED0   GOD1      	16 15 # * PLACE HOLDER *
+TELEE0   GOD1    	20 17 # * PLACE HOLDER *
+TELEF0   GOD1     	20 17 # * PLACE HOLDER *
+TELEG0   GOD1    	24 22 # * PLACE HOLDER *
+TELEH0   GOD1    	24 22 # * PLACE HOLDER *
+TGLTA0   2 2 # Stilgar
+TGLTB0   2 2 # Stilgar
+TGLTC0   3 3 # Stilgar
+TGLTD0   3 3 # Stilgar
+TGLTE0   2 2 # Stilgar
+TGLTF0   2 2 # Stilgar
+TGLTG0   2 2 # Stilgar
+TGLTH0   3 3 # Stilgar
+TGLTI0   3 3 # Stilgar
+TGLTJ0   2 2 # Stilgar
+TRCHA0   12 58 # SuperSomariDX
+TRCHB0   12 58 # SuperSomariDX
+TRCHC0   12 58 # SuperSomariDX
+VLCOA0   16 24 # Warfare
+VLCOB0 VLCOA0  17 24 # Warfare
+VLCOC0 VLCOA0  16 23 # Warfare
+VLCOD0 VLCOA0  15 24 # Warfare
+VLCOE0   16 38 # Warfare
+WTRHA0   5 78 # Stilgar
+WTRHB0   5 78 # Stilgar
+WTRHC0   5 78 # Stilgar
+XPL1A0   24 40 # * PLACE HOLDER *
+XPL1B0   24 40 # * PLACE HOLDER *
+XPL1C0   24 40 # * PLACE HOLDER *
+XPL1D0   24 40 # * PLACE HOLDER *
+XPL1E0   24 40 # * PLACE HOLDER *
+XPL1F0   24 40 # * PLACE HOLDER *
