@@ -11,6 +11,7 @@ A few sounds and updated sprites - AntonR
 Recolor Boss Red Skeleton - MothraMaster
 New vampire monster - AntonR
 New flat and textures - Craneo
+New serpentipede sprites - Nightfang & raymoohawk & Korp (FreeDoom)
 
 New animated textures and flats - Craneo
 # List of patches
