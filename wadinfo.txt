@@ -218,17 +218,17 @@ SBTDTH   HEDDTH	# * PLACE HOLDER *
 SBTPAI   HEDPAI	# * PLACE HOLDER *
 SNKACT	# AntonR - CC0/public domai﻿n
 SNKATK   # Jute Gyte
-SNKDTH   RIPSLOP	# * PLACE HOLDER *
-SNKPAI   BSTPAI	# * PLACE HOLDER *
-SNKSIT   # * PLACE HOLDER *
-SORACT   WIZACT	# * PLACE HOLDER *
+SNKDTH   # geekmarine (FreeDoom)
+SNKPAI   # geekmarine & mc776 (FreeDoom)
+SNKSIT   # geekmarine (FreeDoom)
+SORACT   # hyena (FreeDoom)
 SORATK   WIZATK	# * PLACE HOLDER *
 SORDBON  RIPSLOP	# * PLACE HOLDER *
 SORDEXP  BURN		# * PLACE HOLDER *
-SORDSPH  # * PLACE HOLDER *
-SORPAI   # * PLACE HOLDER *
+SORDSPH  # hyena (FreeDoom)
+SORPAI   # hyena (FreeDoom)
 SORRISE  RESPAWN	# * PLACE HOLDER *
-SORSIT   # * PLACE HOLDER *
+SORSIT   # hyena (FreeDoom)
 SORZAP   # * PLACE HOLDER *
 STFCRK   # SuperSomariDX
 STFHIT   # SuperSomariDX
