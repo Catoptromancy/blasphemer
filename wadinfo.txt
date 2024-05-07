@@ -950,8 +950,8 @@ MOS1A0   20 26 # Warfare
 MOS2A0   15 29 # Warfare
 STCLA0   19 76 # Warfare
 STCSA0   11 41 # Warfare
-STGLA0   19 68 # Warfare
-STGSA0   11 37 # Warfare
+STGLA0   55 116 # Cascade
+STGSA0   25 58  # Cascade
 AMB1A0 6  13   # Stilgar
 AMB1B0 6  13   # Stilgar
 AMB1C0 6  13   # Stilgar
