@@ -13,6 +13,7 @@ New vampire monster - AntonR
 New flat and textures - Craneo
 
 New animated textures and flats - Craneo
+New Shatterhand font - Mechadon
 # List of patches
 [patches]
 WLLLVFL1	# Craneo
