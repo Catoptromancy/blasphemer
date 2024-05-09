@@ -6,12 +6,12 @@ Any limit-removing Doom source port that is compatible with Heretic can be used 
 
 While Blasphemer is currently fully playable, there are still many resources that need to be created or polished. You can become a contributor by submitting a new or modified resource. See the Contributing and wiki for more information:
 
-https://github.com/Blasphemer/blasphemer/blob/master/CONTRIBUTING.md
+https://github.com/Catoptromancy/blasphemer/blob/master/CONTRIBUTING.md
 
 https://github.com/Blasphemer/blasphemer/wiki
 
 It is preferable to handle bug reports or other issues via the "Issues" section of this site rather than forum posts elsewhere.
-https://github.com/Blasphemer/blasphemer/issues
+https://github.com/Catoptromancy/blasphemer/issues
 
 Join us on DoomWorld and Discord!
 
