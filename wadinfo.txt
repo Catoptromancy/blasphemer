@@ -2222,10 +2222,10 @@ PLAYX0   	24 13	# Reinaldo "Horror Movie Guy"
 PLAYY0   	26 13	# Reinaldo "Horror Movie Guy"
 PPODA0   23 40 # Stilgar
 PPODB0   23 40 # Stilgar
-PPODC0   23 40 # (FreeDoom Team)
-PPODD0   23 40 # (FreeDoom Team)
-PPODE0   23 40 # (FreeDoom Team)
-PPODF0   23 40 # (FreeDoom Team)
+PPODC0   23 37 # Stilgar & Eriance (explosion, from FreeDoom) & GeorgePieVG (sprite edits)
+PPODD0   39 52 # Stilgar & Eriance (explosion, from FreeDoom) & GeorgePieVG (sprite edits)
+PPODE0   38 52 # Eriance (explosion, from FreeDoom) & GeorgePieVG (recolor)
+PPODF0   45 56 # Eriance (explosion, from FreeDoom) & GeorgePieVG (recolor)
 PPODG0   23 40 # Stilgar
 PPODH0   23 40 # Stilgar
 PPODI0   23 40 # Stilgar
