@@ -272,7 +272,7 @@ map E5M9 lookup "HHUSTR_E5M9"
 
 // Episode 6
 
-map E6M1 "Raven's Lair"
+map E6M1 lookup "HHUSTR_E6M1"
 {
 	next = "E6M2"
 	secretnext = "E6M2"
@@ -281,7 +281,7 @@ map E6M1 "Raven's Lair"
 	music = "MUS_E6M1"
 }
 
-map E6M2 "Water Shrine"
+map E6M2 lookup "HHUSTR_E6M2"
 {
 	next = "E6M3"
 	secretnext = "E6M3"
@@ -290,7 +290,7 @@ map E6M2 "Water Shrine"
 	music = "MUS_E6M2"
 }
 
-map E6M3 "American's Legacy"
+map E6M3 lookup "HHUSTR_E6M3"
 {
 	next = "E6M1"
 	secretnext = "E6M1"
