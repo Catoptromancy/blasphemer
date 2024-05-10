@@ -1,0 +1,301 @@
+
+map E2M5 lookup "HHUSTR_E2M5"
+{
+	next = "E2M6"
+	secretnext = "E2M9"
+	sky1 = "SKY2"
+	cluster = 2
+	music = "MUS_E2M5"
+}
+
+map E3M1 lookup "HHUSTR_E3M1"
+{
+	next = "E3M2"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M1"
+}
+
+map E3M2 lookup "HHUSTR_E3M2"
+{
+	next = "E3M3"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M2"
+}
+
+map E3M3 lookup "HHUSTR_E3M3"
+{
+	next = "E3M4"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M3"
+}
+
+map E3M4 lookup "HHUSTR_E3M4"
+{
+	next = "E3M5"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M4"
+}
+
+map E3M5 lookup "HHUSTR_E3M5"
+{
+	next = "E3M6"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M5"
+}
+
+map E3M6 lookup "HHUSTR_E3M6"
+{
+	next = "E3M7"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M6"
+}
+
+map E3M7 lookup "HHUSTR_E3M7"
+{
+	next = "E3M8"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M7"
+}
+
+map E3M8 lookup "HHUSTR_E3M8"
+{
+	next = "EndDemon"
+	secretnext = "E3M9"
+	sky1 = "SKY3"
+	cluster = 3
+	nointermission
+	dsparilspecial
+	specialaction_lowerfloortohighest
+	specialaction_killmonsters
+	music = "MUS_E3M8"
+	needclustertext
+}
+
+map E3M9 lookup "HHUSTR_E3M9"
+{
+	next = "E3M5"
+	secretnext = "E3M5"
+	sky1 = "SKY3"
+	cluster = 3
+	music = "MUS_E3M9"
+}
+
+// Episode 4
+/*
+map E4M1 lookup "HHUSTR_E4M1"
+{
+	next = "E4M2"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M1"
+}
+
+map E4M2 lookup "HHUSTR_E4M2"
+{
+	next = "E4M3"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M2"
+}
+
+map E4M3 lookup "HHUSTR_E4M3"
+{
+	next = "E4M4"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M3"
+}
+
+map E4M4 lookup "HHUSTR_E4M4"
+{
+	next = "E4M5"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M4"
+}
+
+map E4M5 lookup "HHUSTR_E4M5"
+{
+	next = "E4M6"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M5"
+}
+
+map E4M6 lookup "HHUSTR_E4M6"
+{
+	next = "E4M7"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M6"
+}
+
+map E4M7 lookup "HHUSTR_E4M7"
+{
+	next = "E4M8"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M7"
+}
+
+map E4M8 lookup "HHUSTR_E4M8"
+{
+	next = "EndGame4"
+	secretnext = "E4M9"
+	sky1 = "SKY1"
+	cluster = 4
+	nointermission
+	ironlichspecial
+	specialaction_lowerfloortohighest
+	specialaction_killmonsters
+	music = "MUS_E4M8"
+	needclustertext
+}
+
+map E4M9 lookup "HHUSTR_E4M9"
+{
+	next = "E4M5"
+	secretnext = "E4M5"
+	sky1 = "SKY1"
+	cluster = 4
+	music = "MUS_E4M9"
+}
+
+// Episode 5
+
+map E5M1 lookup "HHUSTR_E5M1"
+{
+	next = "E5M2"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M1"
+}
+
+map E5M2 lookup "HHUSTR_E5M2"
+{
+	next = "E5M3"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M2"
+}
+
+map E5M3 lookup "HHUSTR_E5M3"
+{
+	next = "E5M4"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M3"
+}
+
+map E5M4 lookup "HHUSTR_E5M4"
+{
+	next = "E5M5"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M4"
+}
+
+map E5M5 lookup "HHUSTR_E5M5"
+{
+	next = "E5M6"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M5"
+}
+
+map E5M6 lookup "HHUSTR_E5M6"
+{
+	next = "E5M7"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M6"
+}
+
+map E5M7 lookup "HHUSTR_E5M7"
+{
+	next = "E5M8"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M7"
+}
+
+map E5M8 lookup "HHUSTR_E5M8"
+{
+	next = "EndGame1"
+	secretnext = "E5M9"
+	sky1 = "SKY3"
+	cluster = 5
+	nointermission
+	minotaurspecial
+	specialaction_killmonsters
+	specialaction_lowerfloortohighest
+	music = "MUS_E5M8"
+	needclustertext
+}
+
+map E5M9 lookup "HHUSTR_E5M9"
+{
+	next = "E5M4"
+	secretnext = "E5M4"
+	sky1 = "SKY3"
+	cluster = 5
+	music = "MUS_E5M9"
+}
+
+// Episode 6
+
+map E6M1 "Raven's Lair"
+{
+	next = "E6M2"
+	secretnext = "E6M2"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "MUS_E6M1"
+}
+
+map E6M2 "Water Shrine"
+{
+	next = "E6M3"
+	secretnext = "E6M3"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "MUS_E6M2"
+}
+
+map E6M3 "American's Legacy"
+{
+	next = "E6M1"
+	secretnext = "E6M1"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "MUS_E6M3"
+}
+*/

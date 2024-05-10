@@ -10,6 +10,9 @@ PLAYPAL  # Da Werecat
 COLORMAP # Da Werecat 
 TINTTAB  # Da Werecat 
 LOADING  # * PLACE HOLDER *
+ZMAPINFO # Based on Raven MIDI Pack
+EMAPINFO # Based on Raven MIDI Pack
+MUSINFO  # Based on Raven MIDI Pack
 TITLE    # Jute Gyte
 HELP1    README	# * PLACE HOLDER *  
 HELP2    README	# * PLACE HOLDER *
@@ -52,6 +55,16 @@ MUS_E3M3 BLAS20X  # Jute Gyte
 MUS_TITL BLAS21  # Jute Gyte
 MUS_CPTD BLAS22X  # Jute Gyte (Episode complete music)
 MUS_INTR BLAS14X  # Jute Gyte (Level complete music)
+
+[musics]
+MUS_E2M5 # "sit on a bench 'n release that tensh'n" by Jazz "jmickle" Mickle (FreeDoom attic)
+MUS_E3M1 # "Desolation" by northivanastan (CC0/Public Domain)
+MUS_E3M4 # "Ambiguity" by Korp (Double Impact MIDI Pack, CC0/Public Domain)
+MUS_E3M5 # "The Ritual" by northivanastan (CC0/Public Domain)
+MUS_E3M6 # "Death Waltz" by northivanastan (CC0/Public Domain)
+MUS_E3M7 # "Derelict" by northivanastan (CC0/Public Domain)
+MUS_E3M8 # "Mists Over the Mire" by Tyler "Picklehammer" P. (FreeDoom)
+MUS_E3M9 # "The Deepest Secrets" by northivanastan (Double Impact MIDI Pack, CC0/Public Domain)
 
 [levels]
 E1M1 dm11     # Protox
