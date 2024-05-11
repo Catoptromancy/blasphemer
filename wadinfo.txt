@@ -11,13 +11,13 @@ COLORMAP # Da Werecat
 TINTTAB  # Da Werecat 
 LOADING  # * PLACE HOLDER *
 TITLE    # Jute Gyte
-HELP1    README	# * PLACE HOLDER *  
-HELP2    README	# * PLACE HOLDER *
+HELP1    # Espi (FreeDoom attic) & GeorgePieVG (recolor)
+HELP2    HELP1	# * PLACE HOLDER *
 CREDIT   README	# * PLACE HOLDER * 
-E2END    README	# * PLACE HOLDER *
+E2END    HELP1	# * PLACE HOLDER *
 E2PAL    		# * PLACE HOLDER *
-FINAL1   README	# * PLACE HOLDER *
-FINAL2   README	# * PLACE HOLDER *
+FINAL1   HELP1	# * PLACE HOLDER *
+FINAL2   HELP1	# * PLACE HOLDER *
 ENDTEXT  # Stilgar
 DEMO1    # * PLACE HOLDER *
 DEMO2    # * PLACE HOLDER *
@@ -247,9 +247,9 @@ WPNUP    # Artisticdude
 ADVISOR  -257 -10 # Stilgar
 IN_X     GOD1	0 0 # * PLACE HOLDER *  
 IN_YAH   GOD1	0 0 # * PLACE HOLDER * 
-MAPE1    0 0 # * PLACE HOLDER *
-MAPE2    0 0 # * PLACE HOLDER *   
-MAPE3    0 0 # * PLACE HOLDER *   
+MAPE1    0 0 # Espi (FreeDoom attic) & GeorgePieVG (recolor)
+MAPE2    MAPE1 # Espi (FreeDoom attic) & GeorgePieVG (recolor) * PLACE HOLDER *
+MAPE3    MAPE1 # Espi (FreeDoom attic) & GeorgePieVG (recolor) * PLACE HOLDER *
 FACEA0   0 0 # Reinaldo "Horror Movie Guy"
 FACEA1   0 0 # Reinaldo "Horror Movie Guy"
 FACEA2   0 0 # Reinaldo "Horror Movie Guy"
@@ -707,6 +707,7 @@ CRFLRWL		# Craneo
 SKY1      # Stilgar
 SKY2      # Stilgar
 SKY3      # Stilgar
+SKY5      # Fredrik (FreeDoom attic sky3) & Korp (FreeDoom wall25_1) & GeorgePieVG (edit and recolor)
 PATA00    # Stilgar (NEW SIZE)
 PATA01    # Stilgar (NEW SIZE)
 PATA02    # Stilgar (NEW SIZE)
@@ -952,9 +953,9 @@ STCLA0   19 76 # Warfare
 STCSA0   11 41 # Warfare
 STGLA0   19 68 # Warfare
 STGSA0   11 37 # Warfare
-AMB1A0 6  13   # Stilgar
-AMB1B0 6  13   # Stilgar
-AMB1C0 6  13   # Stilgar
+AMB1A0 8  14   # Talon1024 & GeorgePieVG (recolor)
+AMB1B0 8  14   # Talon1024 & GeorgePieVG (recolor)
+AMB1C0 8  14   # Talon1024 & GeorgePieVG (recolor)
 AMC1A0 7  22   # Stilgar
 AMC2A0 6  22   # Stilgar
 AMC2B0 6  22   # Stilgar
@@ -1000,18 +1001,18 @@ ACLOB0 6 38  # * PLACE HOLDER *
 ACLOC0 6 38  # * PLACE HOLDER *
 ACLOD0 6 38  # * PLACE HOLDER *
 ACLOE0 GOD1 0 0  # * PLACE HOLDER *
-AMB2A0 8 13  # * PLACE HOLDER *
-AMB2B0 8 13  # * PLACE HOLDER *
-AMB2C0 8 13  # * PLACE HOLDER *
+AMB2A0 15 30  # Talon1024 & GeorgePieVG (recolor)
+AMB2B0 15 30  # Talon1024 & GeorgePieVG (recolor)
+AMB2C0 15 30  # Talon1024 & GeorgePieVG (recolor)
 AMG2A0 7 13  # * PLACE HOLDER *
 AMG2B0 7 13 # * PLACE HOLDER *
 AMG2C0 7 13  # * PLACE HOLDER *
-AMP1A0 5 12  # * PLACE HOLDER *
-AMP1B0 5 12  # * PLACE HOLDER *
-AMP1C0 5 12  # * PLACE HOLDER *
-AMP2A0 7 13  # * PLACE HOLDER *
-AMP2B0 7 13  # * PLACE HOLDER *
-AMP2C0 7 13  # * PLACE HOLDER *
+AMP1A0 9 18  # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
+AMP1B0 9 18  # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
+AMP1C0 9 18  # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
+AMP2A0 13 23 # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
+AMP2B0 13 23 # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
+AMP2C0 13 23 # Pawel "Nmn" Zarczynski & GeorgePieVG (recolor)
 ARTIATLP -1 -2 # Stilgar
 ARTIEGGC -3 -3 # * PLACE HOLDER *
 ARTIFBMB -1 -4 # * PLACE HOLDER *
