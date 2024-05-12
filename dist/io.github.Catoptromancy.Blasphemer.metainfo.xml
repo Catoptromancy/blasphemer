@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SPDX-License-Identifier: BSD-3-Clause -->
+
+<component type="desktop">
+  <id>io.github.Catoptromancy.Blasphemer</id>
+  <name>Blasphemer</name>
+  <summary>First-person shooter based on the Doom engine</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>BSD-3-Clause</project_license>
+  <developer_name>Blasphemer Project</developer_name>
+  <url type="homepage">https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/</url>
+  <url type="bugtracker">https://github.com/Catoptromancy/blasphemer/issues</url>
+  <description>
+    <p>
+      Blasphemer contains five episodes, nine levels each, to
+      provide a smoothly-paced first person action game.  In it is a
+      wide variety of mazes and enemies to fight and challenge your
+      reflexes.
+    </p>
+    <p>
+      The Blasphemer project aims to produce three base-game data files
+      (IWADs) for Heretic-compatible engines.  With it comes the
+      capability to also play the wide range of mods created for Heretic
+      by a vibrant community.  Blasphemer is fully compatible
+      with Heretic: Shadow of The Serpent Riders mods.
+    </p>
+  </description>
+  <categories>
+    <category>Game</category>
+    <category>ActionGame</category>
+  </categories>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">intense</content_attribute>
+    <content_attribute id="violence-fantasy">intense</content_attribute>
+    <content_attribute id="violence-bloodshed">intense</content_attribute>
+    <content_attribute id="violence-desecration">mild</content_attribute>
+    <content_attribute id="language-profanity">mild</content_attribute>
+    <content_attribute id="language-humor">mild</content_attribute>
+  </content_rating>
+  <!-- Note that some screenshots are PNG and others are JPG. These URLs should
+       not change, but double check them each release. -->
+  <screenshots>
+    <screenshot type="default">
+      <image>http://www.jeshimoth.com/blas014_02.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01301.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01302.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01303.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01304.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01305.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.jeshimoth.com/blas01306.png</image>
+      <caption>Blasphemer Screenshot</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.1.9-fork-002" date="2024-05-07"></release>
+  </releases>
+</component>

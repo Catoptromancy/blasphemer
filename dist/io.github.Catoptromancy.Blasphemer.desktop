@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Blasphemer
+Comment=Battle monsters in five 9-level episodes
+Comment[he]=הילחם במפלצות בארבעה פרקים בעלי 9 שלבים
+Comment[es]=Pelea contra monstruos en cuatro episodios de 9 niveles
+Comment[fr]=Affrontez des monstres dans quatre épisodes de 9 niveaux
+GenericName=First Person Shooter Game
+GenericName[he]=משחק יריות בגוף ראשון
+GenericName[es]=Juego de disparos en primera persona
+GenericName[fr]=Jeu de tir à la première personne
+Type=Application
+PrefersNonDefaultGPU=true
+Icon=io.github.Catoptromancy.Blasphemer
+Keywords=first;person;shooter;doom;freedoom;heretic;blasphemer
+Categories=Game;ActionGame;
+Exec=blasphemer
