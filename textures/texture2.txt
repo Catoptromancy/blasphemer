@@ -397,4 +397,18 @@ WALL531        64     128
 *       WALL531        0       0
 WLCRAT01        64     128
 *       WLCRAT01        0       0
+CRFLRWL        64     128
+*       CRFLRWL        0       0
+CRLEAF1        128     128
+*       CRLEAF1        0       0
+CRLEAF2        128     128
+*       CRLEAF2        0       0
+CRTREB        64     128
+*       CRTREB        0       0
+CRWBRIX        64     128
+*       CRWBRIX        0       0
+CRWSTON        128     128
+*       CRWSTON        0       0
+CRWWD        64     128
+*       CRWWD        0       0
 ; End
