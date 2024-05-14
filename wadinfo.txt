@@ -1796,11 +1796,11 @@ FRB1C8C2	28 14 # Espi
 FRB1C7C3	33 12 # Espi
 FRB1C6C4	27 15 # Espi
 FRB1C5   	14 15 # Espi
-FRB1D0   	12 13 # Espi
-FRB1E0  	12 13 # Espi
-FRB1F0   	12 11 # Espi
-FRB1G0   	12 11 # Espi
-FRB1H0   	12 11 # Espi
+FRB1D0   	2 3 # geekmarine (FreeDoom attic)
+FRB1E0  	4 4 # geekmarine (FreeDoom attic)
+FRB1F0   	6 5 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
+FRB1G0   	8 7 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
+FRB1H0   	8 7 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
 FX00A0   3 6 # Printz
 FX00B0   6 4 # Printz
 FX00C0    # * PLACE HOLDER *
@@ -2387,9 +2387,9 @@ VLCOE0   16 38 # Warfare
 WTRHA0   5 78 # Stilgar
 WTRHB0   5 78 # Stilgar
 WTRHC0   5 78 # Stilgar
-XPL1A0   24 40 # * PLACE HOLDER *
-XPL1B0   24 40 # * PLACE HOLDER *
-XPL1C0   24 40 # * PLACE HOLDER *
-XPL1D0   24 40 # * PLACE HOLDER *
-XPL1E0   24 40 # * PLACE HOLDER *
-XPL1F0   24 40 # * PLACE HOLDER *
+XPL1A0   28 29 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
+XPL1B0   31 34 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
+XPL1C0   38 49 # Fredrik (FreeDoom attic)
+XPL1D0   38 49 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
+XPL1E0 GOD1  24 40 # * PLACE HOLDER *
+XPL1F0 GOD1  24 40 # * PLACE HOLDER *
