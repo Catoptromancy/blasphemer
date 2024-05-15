@@ -1775,8 +1775,8 @@ FRB1C8C2	28 14 # Espi
 FRB1C7C3	33 12 # Espi
 FRB1C6C4	27 15 # Espi
 FRB1C5   	14 15 # Espi
-FRB1D0   	2 3 # geekmarine (FreeDoom attic)
-FRB1E0  	4 4 # geekmarine (FreeDoom attic)
+FRB1D0   	2 3 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
+FRB1E0  	4 4 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
 FRB1F0   	6 5 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
 FRB1G0   	8 7 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
 FRB1H0   	8 7 # geekmarine (FreeDoom attic) & GeorgePieVG (recolor)
@@ -2370,5 +2370,5 @@ XPL1A0   28 29 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
 XPL1B0   31 34 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
 XPL1C0   38 49 # Fredrik (FreeDoom attic)
 XPL1D0   38 49 # Fredrik (FreeDoom attic) & GeorgePieVG (recolor)
-XPL1E0 GOD1  24 40 # * PLACE HOLDER *
-XPL1F0 GOD1  24 40 # * PLACE HOLDER *
+XPL1E0   38 49 # Fredrik (FreeDoom attic) & GeorgePieVG (edit)
+XPL1F0   38 49 # Fredrik (FreeDoom attic) & GeorgePieVG (edit)
