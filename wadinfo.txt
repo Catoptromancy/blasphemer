@@ -553,7 +553,7 @@ FLOOR09   # Esselfortium (Recolored)
 FLOOR10   # Stilgar
 FLOOR11   # Stilgar
 FLOOR12   # Stilgar
-FLOOR16   # Stilgar
+FLOOR16   # Stilgar & GeorgePieVG (edit)
 FLOOR17   # Airraid (FreeDoom) (Recolored)
 FLOOR18   # Stilgar
 FLOOR19   # Stilgar
