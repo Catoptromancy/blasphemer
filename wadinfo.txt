@@ -593,8 +593,8 @@ FGROUND1  # Stilgar (Extra)
 FGROUND2  # Stilgar (Extra)
 FGROUND3  # Stilgar (Extra)
 FGROUND4  # Stilgar (Extra)
-FLXTR001  # Stilgar (Extra)
-FLXTR002  # Stilgar (Extra)
+FLXTR001  # Stilgar (Extra) & GeorgePieVG (edit)
+FLXTR002  # Stilgar (Extra) & GeorgePieVG (edit)
 FLXTR003  # Stilgar (Extra)
 FLXTR004  # Stilgar (Extra)
 FLXTR005  # Stilgar (Extra)
@@ -770,7 +770,7 @@ WALL503   # Stilgar
 WALL504   # Stilgar
 WALL505   # Stilgar
 WALL506   # Stilgar
-WALL508   # Stilgar
+WALL508   # Stilgar & GeorgePieVG (edit)
 WALL509   # Stilgar
 WALL510   # Stilgar
 WALL511   # Stilgar
