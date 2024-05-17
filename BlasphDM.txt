@@ -285,9 +285,9 @@ INVGEML1 FONTA10 0 0 # * PLACE HOLDER *
 INVGEMR1 FONTA10 0 0 # * PLACE HOLDER *  
 INVGEML2 FONTA03 0 0 # * PLACE HOLDER *  
 INVGEMR2 FONTA03 0 0 # * PLACE HOLDER *  
-BKEYICON 0 0 # Stilgar
-GKEYICON 0 0 # Stilgar 
-YKEYICON 0 0 # Stilgar
+BKEYICON 0 0 # Stilgar & GeorgePieVG (shape edit)
+GKEYICON 0 0 # Stilgar & GeorgePieVG (shape edit)
+YKEYICON 0 0 # Stilgar & GeorgePieVG (shape edit)
 IN0      0 0 # Stilgar  
 IN1      0 0 # Stilgar 
 IN2      0 0 # Stilgar 
@@ -1700,7 +1700,7 @@ BSKLF0    # Reinaldo "Horror Movie Guy"
 CHDLA0   28 60 # Warfare
 CHDLB0   28 60 # Warfare
 CHDLC0   28 60 # Warfare
-AKYYA0   6 25 # Stilgar
+AKYYA0   6 25 # Stilgar & GeorgePieVG (shape edit)
 AKYYB0   6 25 # Stilgar
 AKYYC0   6 25 # Stilgar
 AKYYD0   6 25 # Stilgar
@@ -1710,7 +1710,7 @@ AKYYG0   6 25 # Stilgar
 AKYYH0   6 25 # Stilgar
 AKYYI0   6 25 # Stilgar
 AKYYJ0   6 25 # Stilgar
-BKYYA0   6 25 # Stilgar
+BKYYA0   6 25 # Stilgar & GeorgePieVG (shape edit)
 BKYYB0   6 25 # Stilgar
 BKYYC0   6 25 # Stilgar
 BKYYD0   6 25 # Stilgar
@@ -1720,7 +1720,7 @@ BKYYG0   6 25 # Stilgar
 BKYYH0   6 25 # Stilgar
 BKYYI0   6 25 # Stilgar
 BKYYJ0   6 25 # Stilgar
-CKYYA0   6 25 # Stilgar
+CKYYA0   6 25 # Stilgar & GeorgePieVG (shape edit)
 CKYYB0   6 25 # Stilgar
 CKYYC0   6 25 # Stilgar
 CKYYD0   6 25 # Stilgar
@@ -2122,8 +2122,8 @@ KFR1F0   20 77 # Warfare & Stilgar
 KFR1G0   20 77 # Warfare & Stilgar
 KFR1H0   20 77 # Warfare & Stilgar
 KGZ1A0   22 61 # Stilgar
-KGZBA0   13 25 # Stilgar
-KGZGA0   13 25 # Stilgar
+KGZBA0   13 25 # Stilgar & GeorgePieVG (shape edit)
+KGZGA0   13 25 # Stilgar & GeorgePieVG (shape edit)
 KGZYA0   13 25 # Stilgar
 LVASA0    # * PLACE HOLDER *
 LVASB0    # * PLACE HOLDER *
