@@ -747,8 +747,8 @@ WALL40    # Stilgar
 WALL41    # Stilgar
 WALL42    # Stilgar
 WALL44    # Stilgar
-WALL45    # Stilgar
-WALL46    # Stilgar
+WALL45    # Stilgar & GeorgePieVG
+WALL46    # Stilgar & GeorgePieVG
 WALL49    # Stilgar
 WALL50    # Esselfortium (Modded)
 WALL51    # Stilgar
