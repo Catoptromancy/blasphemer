@@ -1,0 +1,390 @@
+Patch File for HHE v1.1
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Heretic version = 10
+Patch format = 1
+
+
+Text 1252 17
+BLASPHEMER'S TOMB
+
+Text 1272 16
+E1M2            
+
+Text 1292 20
+FORGOTTEN STRONGHOLD
+
+Text 1316 20
+E1M4                
+
+Text 1340 16
+E1M5            
+
+Text 1360 20
+E1M6                
+
+Text 1384 17
+THE WHITE CITADEL
+
+Text 1404 16
+E1M8            
+
+Text 1424 20
+E1M9                
+
+Text 1448 18
+THE REMOTE OUTPOST
+
+Text 1468 20
+E2M2                
+
+Text 1492 24
+E2M3                    
+
+Text 1520 20
+E2M4                
+
+Text 1544 20
+E2M5                
+
+Text 1568 23
+E2M6                   
+
+Text 1592 20
+E2M7                
+
+Text 1616 24
+E2M8                    
+
+Text 1644 16
+E2M9            
+
+Text 1664 20
+E3M1                
+
+Text 1688 16
+E3M2            
+
+Text 1708 20
+E3M3                
+
+Text 1732 24
+E3M4                    
+
+Text 1760 24
+E3M5                    
+
+Text 1788 24
+E3M6                    
+
+Text 1816 16
+E3M7            
+
+Text 1836 20
+E3M8                
+
+Text 1860 16
+E3M9            
+
+Text 1880 16
+BLACK THRONES   
+
+Text 1900 16
+DESOLATE WAYS   
+
+Text 1920 19
+SPILLING HOLY BLOOD
+
+Text 1940 16
+MEGALITHS       
+
+Text 1960 16
+E4M5            
+
+Text 1980 28
+E4M6                        
+
+Text 2012 28
+E4M7                        
+
+Text 2044 20
+E4M8                
+
+Text 2068 16
+E4M9            
+
+Text 2088 16
+E5M1            
+
+Text 2108 12
+E5M2        
+
+Text 2124 8
+E5M3    
+
+Text 2136 16
+E5M4            
+
+Text 2156 12
+E5M5        
+
+Text 2172 16
+E5M6            
+
+Text 2192 16
+E5M7            
+
+Text 2212 24
+E5M8                    
+
+Text 2240 24
+E5M9                    
+
+Text 2696 23
+Exited from BLASPHEMER
+
+
+Text 4456 517
+Episode one story text              
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+
+Text 4976 531
+Episode two story text             
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                           
+
+Text 5508 563
+Episode three story text           
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                       
+
+Text 6072 707
+Episode four story text             
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+    
+
+Text 6780 687
+Episode five story text             
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                     
+
+Text 8964 18
+MARK OF BLASPHEMER
+
+Text 8984 10
+BURNT SOIL
+
+Text 8996 20
+DOMAIN OF DESPAIR   
+
+Text 9020 11
+HOLYSPRINGS
+
+Text 9032 20
+UNFORGIVING COLD    
+
+Text 9080 24
+WHIMPERING CRAVEN       
+
+Text 9108 16
+STILL A NOVICE  
+
+Text 9128 19
+EXPERIENCED WARRIOR
+
+Text 9148 24
+GRIM AND MORBID         
+
+Text 9176 24
+DEATH'S RIGHT HAND      
+
+Text 9296 29
+YOU'RE LEAVING ALREADY? (Y/N)
+
+Text 9328 36
+END GAME MESSAGE                    
+
+Text 10956 36
+CAN'T OPEN THIS WITHOUT THE BLUE KEY
+
+Text 10996 36
+CAN'T OPEN THIS WITHOUT THE GOLD KEY
+
+Text 11036 37
+CAN'T OPEN THIS WITHOUT THE GREEN KEY
+
+Text 11172 13
+HEALING PHIAL
+
+Text 11188 12
+PLATE ARMOR 
+
+Text 11204 16
+WARLORD'S ARMOR 
+
+Text 11224 14
+POCKET O'STUFF
+
+Text 11240 10
+MAP CANVAS
+
+Text 11264 8
+GOLD KEY
+
+Text 11288 14
+HEALING ELIXIR
+
+Text 11304 14
+FALLEN'S WINGS
+
+Text 11320 22
+SHIELD OF THE IMMORTAL
+
+Text 11344 14
+BLACK GRIMOIRE
+
+Text 11360 12
+WRATH CLOAK 
+
+Text 11376 11
+JINXMORPHER
+
+Text 11388 10
+HOLY GRAIL
+
+Text 11400 7
+LANTERN
+
+Text 11408 24
+SIGIL OF DEATH          
+
+Text 11436 12
+MIRRORGATE  
+
+Text 11452 14
+ACCURSED JEWEL
+
+Text 11468 13
+ACCURSED SEAL
+
+Text 11484 12
+NECROSTEEL  
+
+Text 11500 20
+GRIM NECROSTEEL     
+
+Text 11524 12
+PLAGUE BOLTS
+
+Text 11540 24
+QUIVER OF PLAGUE BOLTS  
+
+Text 11568 9
+ICE SHARD
+
+Text 11580 9
+ICE JEWEL
+
+Text 11592 12
+BLOODSTONE  
+
+Text 11608 15
+ROYALBLOODSTONE
+
+Text 11624 11
+FLAME TOOTH
+
+Text 11636 10
+FLAME JAWS
+
+Text 11648 11
+NECROCANNON
+
+Text 11660 16
+PLAGUEWIELDER   
+
+Text 11680 9
+FROSTFANG
+
+Text 11692 11
+BLOODSCEPTR
+
+Text 11704 11
+FIREBREATHE
+
+Text 11716 28
+VAMPYRIC CLAWS              
+
+Text 11940 22
+Too many cannon spots.

@@ -1,4 +1,5 @@
 [enu default]
+// Weapons
 TXT_WPNMACE = "Necrocannon";
 TXT_WPNBLASTER = "Frostfang";
 TXT_WPNCROSSBOW = "Plaguewielder";
@@ -6,23 +7,34 @@ TXT_WPNPHOENIXROD = "Firebreather";
 TXT_WPNSKULLROD = "Blood Sceptre";
 TXT_WPNGAUNTLETS = "Vampyric Claws";
 
+// Keys
+TXT_GOTBLUEKEY = "Blue Key";
+TXT_NEEDBLUEKEY = "Can't open this without the blue key";
 TXT_GOTYELLOWKEY = "Gold Key";
-TXT_NEEDYELLOWKEY = "You need a gold key to open this door";
+TXT_NEEDYELLOWKEY = "Can't open this without the gold key";
+TXT_GOTGREENKEY = "Green Key";
+TXT_NEEDGREENKEY = "Can't open this without the green key";
 
+// Artifacts
 TXT_ARTIHEALTH = "Healing Elixir";
 TXT_ARTIFLY = "Wings of the Fallen";
 TXT_ARTIINVULNERABILITY = "Shield of the Immortal";
 TXT_ARTITOMEOFPOWER = "Black Grimoire";
 TXT_ARTIINVISIBILITY = "Wraith Cloak";
-TXT_ARTIEGG = "noname";
+TXT_ARTIEGG = "Jinxmorpher";
 TXT_ARTISUPERHEALTH = "Grail of Lifeblood";
-TXT_ARTITORCH = "noname";
+TXT_ARTITORCH = "Lantern";
 TXT_ARTIFIREBOMB = "Sigil of Death";
 TXT_ARTITELEPORT = "Mirrorgate";
 
+// Regular powerups
+TXT_ITEMHEALTH = "Healing Phial";
+TXT_ITEMBAGOFHOLDING = "Pocket O'Stuff";
 TXT_ITEMSHIELD1 = "Plate Armor";
 TXT_ITEMSHIELD2 = "Warlord's Armor";
+TXT_ITEMSUPERMAP = "Map Canvas";
 
+// Ammo pickups
 TXT_AMMOMACE1 = "Necrosteel";
 TXT_AMMOMACE2 = "Grim Necrosteel";
 TXT_AMMOGOLDWAND1 = "Accursed Jewel";
@@ -36,42 +48,264 @@ TXT_AMMOCROSSBOW2 = "Quiver of Plague Bolts";
 TXT_AMMOSKULLROD1 = "Bloodstone";
 TXT_AMMOSKULLROD2 = "Royal Bloodstone";
 
+// Episode names
+MNU_COTD = "Mark of Blasphemer";
+MNU_HELLSMAW = "Burnt Soil";
+MNU_DOME = "Domain of Despair";
+MNU_OSSUARY = "Holysprings";
+MNU_DEMESNE = "Unforgiving Cold";
+
+// Skill names
 MNU_WETNURSE = "Whimpering Craven";
 MNU_YELLOWBELLIES = "Still a Novice";
 MNU_BRINGEST = "Experienced Warrior";
 MNU_SMITE = "Grim and Morbid";
 MNU_BLACKPLAGUE = "Death's Right Hand";
 
-HHUSTR_E1M1 = "noname";
-HHUSTR_E1M2 = "noname";
+// Episode 1 map names
+HHUSTR_E1M1 = "Blasphemer's Tomb";
+HHUSTR_E1M2 = "E1M2";
 HHUSTR_E1M3 = "Forgotten Stronghold";
+HHUSTR_E1M4 = "E1M4";
+HHUSTR_E1M5 = "E1M5";
+HHUSTR_E1M6 = "E1M6";
 HHUSTR_E1M7 = "The White Citadel";
+HHUSTR_E1M8 = "E1M8";
+HHUSTR_E1M9 = "E1M9";
+
+// Episode 2 map names
 HHUSTR_E2M1 = "The Remote Outpost";
+HHUSTR_E2M2 = "E2M2";
+HHUSTR_E2M3 = "E2M3";
+HHUSTR_E2M4 = "E2M4";
+HHUSTR_E2M5 = "E2M5";
+HHUSTR_E2M6 = "E2M6";
+HHUSTR_E2M7 = "E2M7";
+HHUSTR_E2M8 = "E2M8";
+HHUSTR_E2M9 = "E2M9";
+
+// Episode 3 map names
+HHUSTR_E3M1 = "E3M1";
+HHUSTR_E3M2 = "E3M2";
+HHUSTR_E3M3 = "E3M3";
+HHUSTR_E3M4 = "E3M4";
+HHUSTR_E3M5 = "E3M5";
+HHUSTR_E3M6 = "E3M6";
+HHUSTR_E3M7 = "E3M7";
+HHUSTR_E3M8 = "E3M8";
+HHUSTR_E3M9 = "E3M9";
+
+// Episode 4 map names
 HHUSTR_E4M1 = "Black Thrones";
 HHUSTR_E4M2 = "Desolate Ways";
 HHUSTR_E4M3 = "Spilling Holy Blood";
 HHUSTR_E4M4 = "Megaliths";
-HHUSTR_E4M5 = "noname";
-HHUSTR_E4M6 = "noname";
-HHUSTR_E4M7 = "noname";
-HHUSTR_E4M8 = "noname";
-HHUSTR_E4M9 = "noname";
+HHUSTR_E4M5 = "E4M5";
+HHUSTR_E4M6 = "E4M6";
+HHUSTR_E4M7 = "E4M7";
+HHUSTR_E4M8 = "E4M8";
+HHUSTR_E4M9 = "E4M9";
 
+// Episode 5 map names
+HHUSTR_E5M1 = "E5M1";
+HHUSTR_E5M2 = "E5M2";
+HHUSTR_E5M3 = "E5M3";
+HHUSTR_E5M4 = "E5M4";
+HHUSTR_E5M5 = "E5M5";
+HHUSTR_E5M6 = "E5M6";
+HHUSTR_E5M7 = "E5M7";
+HHUSTR_E5M8 = "E5M8";
+HHUSTR_E5M9 = "E5M9";
 
-// Skibbi's Obituaries
+// Story texts
+HE1TEXT = "Episode 1 story text";
+HE2TEXT = "Episode 2 story text";
+HE3TEXT = "Episode 3 story text";
+HE4TEXT = "Episode 4 story text";
+HE5TEXT = "Episode 5 story text";
+
+RAVENQUITMSG = "You're leaving already?";
+
+// Obituaries
 //Grunts
-OB_MUMMY = "%o was slaughtered by a grunt";
-OB_MUMMYLEADER = "%o pissed off the grunt leader";
+OB_MUMMY = "%o was slaughtered by a ghoul";
+OB_MUMMYLEADER = "%o pissed off the ghoul leader";
+OB_WIZARD = "%o was scourged by the sourcerer";
 OB_WIZARDHIT = "%o was scourged by the sourcerer";
-OB_BONEKNIGHT = "%o was no match for the jack of all trades"; 
-OB_BONEKNIGHTHIT = "%o was bashed by a jack of all trades";
-OB_HERETICIMP = "%o was burned by a flying grunt";
-OB_HERETICIMPHIT = "%o was ripped by a flying grunt";
+OB_BONEKNIGHT = "%o was drained dry by a strigoi";
+OB_BONEKNIGHTHIT = "%o was bashed by a strigoi";
+OB_HERETICIMP = "%o was spat on by a harpy";
+OB_HERETICIMPHIT = "%o was pecked by a harpy";
+
+OB_CHICKEN = "%o was hugged to death by a shoggoth";
+OB_BEAST = "%o was burned to a crisp by a merewif";
+OB_CLINK = "%o was torn apart by a cawibouk";
+OB_SNAKE = "%o was scorched by a serpentipede";
+
 //Bosses
-//OB_IRONLICH
-//OB_IRONLICHHIT 
+OB_IRONLICH = "%o was held back by a keepyr";
+OB_IRONLICHHIT = "%o was bitten in half by a keepyr";
+
+OB_MINOTAUR = "%o received a warm welcome from the ogre";
+OB_MINOTAURHIT = "%o was smashed by an ogre";
 
 OB_DSPARIL1 = "%o was no match for gyte's steed";
 OB_DSPARIL1HIT = "%o was bitten by gyte's steed";
-OB_DSPARIL2 = "%o was smote by gyte";
-OB_DPSARIL2HIT = "%o was no match for gyte's melee";
+OB_DSPARIL2 = "%o couldn't escape the Graf's retribution";
+OB_DPSARIL2HIT = "%o felt the Graf's firm handshake";
+
+[ru]
+// Weapons
+TXT_WPNMACE = "Некропушка";
+TXT_WPNBLASTER = "Ледоклык";
+TXT_WPNCROSSBOW = "Чуманосец";
+TXT_WPNPHOENIXROD = "Огнедых";
+TXT_WPNSKULLROD = "Кровавый Скипетр";
+TXT_WPNGAUNTLETS = "Вампирические Когти";
+
+// Keys
+TXT_GOTBLUEKEY = "Синий Ключ";
+TXT_NEEDBLUEKEY = "Не могу открыть это без синего ключа";
+TXT_GOTYELLOWKEY = "Золотой Ключ";
+TXT_NEEDYELLOWKEY = "Не могу открыть это без золотого ключа";
+TXT_GOTGREENKEY = "Зелёный Ключ";
+TXT_NEEDGREENKEY = "Не могу открыть это без зелёного ключа";
+
+// Artifacts
+TXT_ARTIHEALTH = "Целебный Эликсир";
+TXT_ARTIFLY = "Крылья Падшего";
+TXT_ARTIINVULNERABILITY = "Щит Неуязвимого";
+TXT_ARTITOMEOFPOWER = "Чёрный Гримуар";
+TXT_ARTIINVISIBILITY = "Плащ Духа";
+TXT_ARTIEGG = "Сглазоврат";
+TXT_ARTISUPERHEALTH = "Грааль Жизненной Крови";
+TXT_ARTITORCH = "Фонарь";
+TXT_ARTIFIREBOMB = "Знак Смерти";
+TXT_ARTITELEPORT = "Зеркальные Врата";
+
+// Regular powerups
+TXT_ITEMHEALTH = "Целебная Колба";
+TXT_ITEMBAGOFHOLDING = "Мешочек Вещей";
+TXT_ITEMSHIELD1 = "Пластинчатые Доспехи";
+TXT_ITEMSHIELD2 = "Броня Воеводы";
+TXT_ITEMSUPERMAP = "Полотно Карты";
+
+// Ammo pickups
+TXT_AMMOMACE1 = "Некросталь";
+TXT_AMMOMACE2 = "Мрачная Некросталь";
+TXT_AMMOGOLDWAND1 = "Проклятый Камень";
+TXT_AMMOGOLDWAND2 = "Проклятая Печать";
+TXT_AMMOBLASTER1 = "Ледяной Осколок";
+TXT_AMMOBLASTER2 = "Ледяной Камень";
+TXT_AMMOPHOENIXROD1 = "Огненный Зуб";
+TXT_AMMOPHOENIXROD2 = "Огненные Челюсти";
+TXT_AMMOCROSSBOW1 = "Чумные Болты";
+TXT_AMMOCROSSBOW2 = "Колчан Чумных Болтов";
+TXT_AMMOSKULLROD1 = "Кровавый Камень";
+TXT_AMMOSKULLROD2 = "Королевский Кровавый Камень";
+
+// Episode names
+MNU_COTD = "Метка Богохульника";
+MNU_HELLSMAW = "Сожжёная Почва";
+MNU_DOME = "Обитель Отчаяния";
+MNU_OSSUARY = "Святые Источники";
+MNU_DEMESNE = "Непрощающий Холод";
+
+// Skill names
+MNU_WETNURSE = "Хнычущий Трус";
+MNU_YELLOWBELLIES = "Ещё Новенький";
+MNU_BRINGEST = "Опытный Воин";
+MNU_SMITE = "Мрачный и Нездоровый";
+MNU_BLACKPLAGUE = "Смерти Правая Рука";
+
+// Episode 1 map names
+HHUSTR_E1M1 = "Гробница Богохульника";
+HHUSTR_E1M2 = "E1M2";
+HHUSTR_E1M3 = "Забытая Крепость";
+HHUSTR_E1M4 = "E1M4";
+HHUSTR_E1M5 = "E1M5";
+HHUSTR_E1M6 = "E1M6";
+HHUSTR_E1M7 = "Белая Цитадель";
+HHUSTR_E1M8 = "E1M8";
+HHUSTR_E1M9 = "E1M9";
+
+// Episode 2 map names
+HHUSTR_E2M1 = "Удалённый Форпост";
+HHUSTR_E2M2 = "E2M2";
+HHUSTR_E2M3 = "E2M3";
+HHUSTR_E2M4 = "E2M4";
+HHUSTR_E2M5 = "E2M5";
+HHUSTR_E2M6 = "E2M6";
+HHUSTR_E2M7 = "E2M7";
+HHUSTR_E2M8 = "E2M8";
+HHUSTR_E2M9 = "E2M9";
+
+// Episode 3 map names
+HHUSTR_E3M1 = "E3M1";
+HHUSTR_E3M2 = "E3M2";
+HHUSTR_E3M3 = "E3M3";
+HHUSTR_E3M4 = "E3M4";
+HHUSTR_E3M5 = "E3M5";
+HHUSTR_E3M6 = "E3M6";
+HHUSTR_E3M7 = "E3M7";
+HHUSTR_E3M8 = "E3M8";
+HHUSTR_E3M9 = "E3M9";
+
+// Episode 4 map names
+HHUSTR_E4M1 = "Чёрные Троны";
+HHUSTR_E4M2 = "Пустынные Тропы";
+HHUSTR_E4M3 = "Проливая Святую Кровь";
+HHUSTR_E4M4 = "Мегалиты";
+HHUSTR_E4M5 = "E4M5";
+HHUSTR_E4M6 = "E4M6";
+HHUSTR_E4M7 = "E4M7";
+HHUSTR_E4M8 = "E4M8";
+HHUSTR_E4M9 = "E4M9";
+
+// Episode 5 map names
+HHUSTR_E5M1 = "E5M1";
+HHUSTR_E5M2 = "E5M2";
+HHUSTR_E5M3 = "E5M3";
+HHUSTR_E5M4 = "E5M4";
+HHUSTR_E5M5 = "E5M5";
+HHUSTR_E5M6 = "E5M6";
+HHUSTR_E5M7 = "E5M7";
+HHUSTR_E5M8 = "E5M8";
+HHUSTR_E5M9 = "E5M9";
+
+// Story texts
+HE1TEXT = "Episode 1 story text";
+HE2TEXT = "Episode 2 story text";
+HE3TEXT = "Episode 3 story text";
+HE4TEXT = "Episode 4 story text";
+HE5TEXT = "Episode 5 story text";
+
+RAVENQUITMSG = "Уже уходишь?";
+
+// Obituaries
+//Grunts
+OB_MUMMY = "%o был зверски убит гулем";
+OB_MUMMYLEADER = "%o выбесил лидера гулей";
+OB_WIZARD = "%o was scourged by the sourcerer";
+OB_WIZARDHIT = "%o was scourged by the sourcerer";
+OB_BONEKNIGHT = "%o был высушен досуха стригоем";
+OB_BONEKNIGHTHIT = "%o был протаранен стригоем";
+OB_HERETICIMP = "%o был заплёван гарпией";
+OB_HERETICIMPHIT = "%o был заклёван гарпией";
+
+OB_CHICKEN = "%o был объят шоггот до смерти";
+OB_BEAST = "%o был поджарен меревифом до хрустящей корочки";
+OB_CLINK = "%o был разорван на части кавибоуком";
+OB_SNAKE = "%o был подпалён змееножкой";
+
+//Bosses
+OB_IRONLICH = "%o был задержан хранителем";
+OB_IRONLICHHIT = "%o был перекушен пополам хранителем";
+
+OB_MINOTAUR = "%o был тепло принят огром";
+OB_MINOTAURHIT = "%o был раздавлен огром";
+
+OB_DSPARIL1 = "%o was no match for gyte's steed";
+OB_DSPARIL1HIT = "%o was bitten by gyte's steed";
+OB_DSPARIL2 = "%o не смог избежать возмездия Графа";
+OB_DPSARIL2HIT = "%o прочувствовал крепкое рукопожатие Графа";

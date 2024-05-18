@@ -5,6 +5,8 @@
 # Stilgar - Placeholder Map, Monster placeholder
 
 [lumps]
+HEHACKED # GeorgePieVG & Stilgar (strings)
+HHEVER
 DECORATE # Stilgar
 PLAYPAL  # Da Werecat 
 COLORMAP # Da Werecat 
@@ -27,7 +29,7 @@ SNDCURVE # ~ AutoGenerate (Stilgar) ~
 DMXGUS   # * PLACE HOLDER *
 GFRAG    # * PLACE HOLDER *
 AUTOPAGE # GreyGhost
-LANGUAGE # Stilgar 
+LANGUAGE # Stilgar & GeorgePieVG (additions, ru translation) & Skibbi (obituaries)
 EXTENDED # Stilgar
 BLASPHEM # Empty tag lump
 MUS_E1M1 BLAS01X  # Jute Gyte

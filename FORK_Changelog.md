@@ -13,6 +13,7 @@ New vampire monster - AntonR
 New flat and textures - Craneo
 
 New animated textures and flats - Craneo
+Added HHE support - GeorgePieVG
 # List of patches
 [patches]
 WLLLVFL1	# Craneo
