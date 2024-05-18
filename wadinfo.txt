@@ -2009,7 +2009,7 @@ FX15D0   	 # BigProjectAlone
 FX15E0   	 # BigProjectAlone
 FX15F0   	 # BigProjectAlone
 FX15G0   	 # BigProjectAlone
-FX16A1    11	16 # All FX16* by Eriance (FreeDoom) & GerogePieVG (recolor)
+FX16A1    11	16 # All FX16* by Eriance (FreeDoom) & GeorgePieVG (recolor)
 FX16A2A8  15	15 #
 FX16A3A7  17	15 #
 FX16A4A6  11	15 #
@@ -2019,11 +2019,11 @@ FX16B2B8  14	15 #
 FX16B3B7  16	15 #
 FX16B4B6  11	15 #
 FX16B5    11	15 #
-FX16C1    11	16 #
-FX16C2C8  15	15 #
-FX16C3C7  17	15 #
-FX16C4C6  11	15 #
-FX16C5    11	15 #
+FX16C1    11	16 # * PLACE HOLDER *
+FX16C2C8  15	15 # * PLACE HOLDER *
+FX16C3C7  17	15 # * PLACE HOLDER *
+FX16C4C6  11	15 # * PLACE HOLDER *
+FX16C5    11	15 # * PLACE HOLDER *
 FX16D0     	# * PLACE HOLDER *
 FX16E0     	# * PLACE HOLDER *
 FX16F0     	# * PLACE HOLDER *
