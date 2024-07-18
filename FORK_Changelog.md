@@ -1,5 +1,34 @@
 #######
-0.1.9-fork-002
+0.1.9-fork-004
+
+wldead NMN Patches - CC0
+Update WLDEAD01 - Craneo
+Update E3M1 - Craneo
+New SwordStaff Amuscaria
+New BossMeteor Amuscaria
+New SKY3 - Craneo
+Updated language.lmp - Craneo
+New DM41 - Craneo
+New AMB3 - AntonR
+New Menu Graphics - MrFlibble
+New sound Craneo and Freedoom
+New E2M9 - Craneo
+New Craneo Flats and Textures
+Updated sounds AntonR
+
+kgtat2.wav
+kgtatk.wav
+kgtdth.wav
+kgtpai.wav
+kgtsit.wav
+snkact.wav
+snkatk.wav
+snkdth.wav
+snkpai.wav
+snksit.wav
+
+#######
+0.1.9-fork-003
 Iwads of current repo are available prebuilt on repo.
 Update Title Pic
 Update E3M8 - Catoptromancy
@@ -11,10 +40,14 @@ A few sounds and updated sprites - AntonR
 Recolor Boss Red Skeleton - MothraMaster
 New vampire monster - AntonR
 New flat and textures - Craneo
+New E3M9 - Craneo
+New Beast Sprite with art by Craneo and Animated by KatherineCode 
+New D'Sparil by Desfar
 
 New animated textures and flats - Craneo
 # List of patches
 [patches]
+WOODBOOK	#Craneo
 WLLLVFL1	# Craneo
 WLLLVFL2	# Craneo	
 WLLLVFL3	# Craneo
@@ -120,3 +153,5 @@ KNIGL0	50	88
 KNIGM0	50	88
 KNIGN0	50	88
 KNIGO0	50	88
+
+
