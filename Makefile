@@ -20,7 +20,7 @@ all: deutex-check $(OBJS)
 subdirs:
 	#$(MAKE) VERSION=$(VERSION) -C graphics/text
 	#$(MAKE) -C lumps/textures
-	# not now, yet
+	# WIP
 
 #---------------------------------------------------------
 # Build checks
@@ -32,7 +32,7 @@ deutex-check:
 	echo "libraries (libpng and libpng-devel or similar packages) installed."; \
 	echo "deutex can be downloaded from https://github.com/Doom-Utils/deutex."; \
 	echo "The full path to duetex can be specified by passing"; \
-	echo "DEUTEX=/the/path/to/deutex to make when building Freedoom."; \
+	echo "DEUTEX=/the/path/to/deutex to make when building Blasphemer."; \
 	exit 1; }
 
 # Make sure that no PNG files are modified if scripts are to modify them.
